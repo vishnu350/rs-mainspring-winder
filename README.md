@@ -1,11 +1,11 @@
 # Introduction
-This is the 3D printable "Rising Sun" watch mainspring winder for watchmaking hobbyists. The RS nickname is derived from the fingergrip knurling pattern on the top of the winder. This is the 2021 solution to hobbiyst mainspring winding woes. It is derived from the work by Fratink: https://www.thingiverse.com/thing:3540660
+This is the 3D printable "Rising Sun" watch mainspring winder for watchmaking hobbyists. The RS nickname is derived from the fingergrip knurling pattern on the top of the winder. This is the 2021 solution to hobbiyst mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1000 Bergeon set to wind their vintage unbranded mainsprings/barrels. In the worst case scenario, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding, which will definately kink or damage the mainspring. Worry not, as I have come to your rescue.
 
 This FreeCAD based mainspring winder is designed to be 3D printed, and will approximately cost $5/set by most 3D print service providers (use eBay to find someone near you). The design is parameterized, allowing you to dynamically change the size/dimensions of the winder and the entire design will be recalculated accordingly.
 
-The RS mainspring winder is a pleasure to use when constructed correctly, and it will not kink or damage the mainspring due to PLA material being softer than steel, but is tough enough to withstand the winding stress. Due to this, it may even be viable for professional vintage watch restorers.
+The RS mainspring winder is a pleasure to use when constructed correctly, and can wind clockwise and counter-clockwise mainsprings. It will not kink or damage the mainspring due to PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
 
 ##### TODO: Add link to video here.
 
@@ -14,7 +14,8 @@ There are four parts to the RS mainspring winder:
 - **The housing barrel**. This 3D printed part has a barrel that houses the mainspring and plunger, and the knurling pattern on the top is akin to a rising sun.
 - **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up. When reversed, it holds the actual mainspring barrel in place for plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour. This part is too small to be 3D printed with enough strength/accuracy.
+- **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour.
+Note that the anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler clip is an everyday item accesible to everyone, and is the perfect solution for this.
 
 Recommended 3D printing options:
 - **Material: PLA** (needed for the accuracy over PETG, Nylon, etc)
@@ -49,5 +50,6 @@ These are the steps to using the RS winder:
 8. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring, and will probably last you another 100 watch services.
 
 # Thanks
+I would like to thank Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660 , the same free licensing scheme is reused for this work. However, the design was too crude to use, so I tasked myself with a complete rethink.
 
 If you like my work, consider contributing to the design or experimenting with 3D printouts using untested paramenters. Or just buy me a drink by sponsoring me, that will also work.
