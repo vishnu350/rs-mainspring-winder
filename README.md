@@ -10,19 +10,19 @@ The RS mainspring winder is a pleasure to use when constructed correctly, and ca
 ##### TODO: Add link to video here.
 
 # The Design
+
 There are four parts to the RS mainspring winder:
 - **The housing barrel**. This 3D printed part has a barrel that houses the mainspring and plunger, and the knurling pattern on the top is akin to a rising sun.
 - **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up. When reversed, it holds the actual mainspring barrel in place for plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour.
-Note that the anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler clip is an everyday item accesible to everyone, and is the perfect solution for this.
+- **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour. Note that the anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler clip is an everyday item accesible to everyone, and is the perfect solution for this.
 
 Recommended 3D printing options:
-- **Material: PLA** (needed for the accuracy over PETG, Nylon, etc)
-- **Filling: 100%** (lower values are not recommended, parts may crumble under stress)
-- **Layer thickness: 200 µm** or better
-- **Printer: Prusa I3 MK3** or better
-- **Colour: White** for all (optionally orange for plunger if desired)
+- **Material: PLA** (needed for the accuracy over PETG, PLA+, Nylon, etc). Avoid cheap or low quality PLA.
+- **Filling: 100%** (lower values are not recommended, parts may crumble under stress).
+- **Layer thickness: 200 µm** or better.
+- **Printer: Prusa I3 MK3** or better.
+- **Colour: White** for all (optionally orange for plunger if desired). Or whatever.
 
 # Building and using the RS winder
 
@@ -50,6 +50,6 @@ These are the steps to using the RS winder:
 8. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring.
 
 # Thanks
-I would like to thank Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660 , the same free licensing scheme is reused for this work. However, the design was too crude to use, so I had to completely re-engineer it.
+Thanks to Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660, the same free Creative Commons licensing scheme is reused for this work. However the design was lacking in polish, so I rebuilt it from scratch. With math.
 
-If you like my work, consider contributing to the design or experimenting with 3D printouts using untested paramenters. Or just buy me a drink by sponsoring me, that will also work.
+If you like my work, consider contributing to the design or experimenting with 3D printouts using untested parameters. Or just buy me a drink by sponsoring me, that will also work :)
