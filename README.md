@@ -5,7 +5,7 @@ Watch mainspring winding for hobbyists has always been a problem, as most of us 
 
 This FreeCAD based mainspring winder is designed to be 3D printed, and will approximately cost $5/set by most 3D print service providers (use eBay to find someone near you). The design is parameterized, allowing you to dynamically change the size/dimensions of the winder and the entire design will be recalculated accordingly.
 
-The RS mainspring winder is a pleasure to use when constructed correctly, and can wind clockwise and counter-clockwise mainsprings. It will not kink or damage the mainspring due to PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
+The RS mainspring winder is a pleasure to use when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
 
 ##### TODO: Add link to video here.
 
@@ -47,9 +47,9 @@ These are the steps to using the RS winder:
 5. Wind the mainspring until end tail of the mainspring sticks out. Use a tweezer to ram it in **until it cannot be seen**. If it refuses to go in, wind a little bit more to make it easier to do so (but not too much).
 6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. The anchor will naturally unlatch, allowing you to just pull off the winder part. If the mainspring is still latched, then gently unwind a little bit more. Do not overdo it as the hook may scratch the mainspring.
 7. Next, reverse the winder and place the actual mainspring barrel inside the recess. Plug it back into the housing barrel, apply some force to hold it together, and press the plunger. All done!
-8. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring, and will probably last you another 100 watch services.
+8. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring.
 
 # Thanks
-I would like to thank Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660 , the same free licensing scheme is reused for this work. However, the design was too crude to use, so I tasked myself with a complete rethink.
+I would like to thank Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660 , the same free licensing scheme is reused for this work. However, the design was too crude to use, so I had to completely re-engineer it.
 
 If you like my work, consider contributing to the design or experimenting with 3D printouts using untested paramenters. Or just buy me a drink by sponsoring me, that will also work.
