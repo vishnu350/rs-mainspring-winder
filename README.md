@@ -42,7 +42,7 @@ Steps to customize and building your own RS winder:
 
 ##### TODO: Add link to FreeCAD installer, mention 0.19 works.
 ##### TODO: Add link to FreeCAD project file.
-##### TODO: Add link to STL files and proper description on how to avoid using FreeCAD.
+##### TODO: Add link to STL files and proper description so some users can avoid using FreeCAD.
 ##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
 
 # Using the RS winder
@@ -63,6 +63,6 @@ Steps to using the RS winder:
 - Tweak design further for better quality and ease of use.
 
 # Thanks
-Thanks to Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660, the same free Creative Commons licensing scheme is reused for this work. However the design was lacking in polish, so I rebuilt it from scratch. With math.
+Thanks to Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660, the same free Creative Commons licensing scheme is reused for this work. However the design was lacking in polish, so I rebuilt it from scratch.
 
 If you like my work, consider contributing to the design or experimenting with 3D printouts using untested parameters. Or just buy me a drink by sponsoring me, that will also work :)
