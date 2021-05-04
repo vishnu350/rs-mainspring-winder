@@ -15,7 +15,9 @@ There are four parts to the RS mainspring winder:
 - **The housing barrel**. This 3D printed part has a barrel that houses the mainspring and plunger, and the knurling pattern on the top is akin to a rising sun.
 - **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up. When reversed, it holds the actual mainspring barrel in place for plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour. Note that the anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler clip is an everyday item accesible to everyone, and is perfect for this.
+- **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour.
+
+**NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler clip is an everyday item accesible to everyone, and is perfect for this task.*
 
 # Building the RS winder
 
@@ -26,10 +28,7 @@ Recommended 3D printing options:
 - **Printer: Prusa I3 MK3** or better.
 - **Colour: White** for all (optionally orange for plunger if desired). Or whatever.
 
-##### TODO: Add link to FreeCAD installer, mention 0.19 works.
-##### TODO: Add link to FreeCAD project file.
-
-These are the steps to customize and building your own RS winder:
+Steps to customize and building your own RS winder:
 1. Download and install FreeCAD. Why FreeCAD? It is lightweight, free, open-source, works on any machine, doesnt spy on you, and doesnt constantly nag you to pay for features you will never need.
 2. Download the RS mainspring winder FreeCAD project file and open it.
 3. Open up the parameter spreadsheet on the right pane by double clicking on it.
@@ -39,9 +38,16 @@ These are the steps to customize and building your own RS winder:
 7. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
 8. Clean/wash all parts and then (optionally) lubricate all contact points appropriately.
 
+**NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
+
+##### TODO: Add link to FreeCAD installer, mention 0.19 works.
+##### TODO: Add link to FreeCAD project file.
+##### TODO: Add link to STL files and proper description on how to avoid using FreeCAD.
+##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
+
 # Using the RS winder
 
-These are the steps to using the RS winder:
+Steps to using the RS winder:
 1. Place the plunger into the housing barrel.
 2. Place the mainspring into the arbour on the winder part. Be careful not to break it.
 3. Use a tweezer to latch the anchor onto the mainspring hole (see video).
