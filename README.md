@@ -53,7 +53,7 @@ Steps to using the RS winder:
 5. Wind the mainspring until end tail of the mainspring sticks out. Ram it in with any tool of your choosing,  **until it can no longer be seen**. If it refuses to go in, wind a little bit more to make space for it to do so (but not too much).
 6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. The anchor will naturally unlatch, allowing you to just pull off the winder part. If the mainspring is still latched, then gently unwind a little bit more.
 7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
-8. Place the housing+bowl on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
+8. Place the housing+bowl parts on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
 9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring.
 
 # Cautionary Advice and Tips
@@ -76,7 +76,7 @@ Steps to using the RS winder:
 # Thanks & How To Contribute
 I do not have a 3D printer, so I have been paying for each experimental print with the help of a local 3D print company. I also lack the knowledge on the complete spectrum of barrel sizes, mainspring sizes, etc, so I can never build something that is perfect without your help.
 
-So if you like my work, consider:
+So if you like my work, please consider:
 - Contributing to the design or experimenting with 3D printouts using untested parameters.
 - Share the dimensions of known existing mainspring barrel and parts.
 - Offering to print and ship experimental 3D printed designs for me.
