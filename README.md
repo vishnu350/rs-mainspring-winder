@@ -30,7 +30,7 @@ Recommended 3D printing options:
 - **Color: White** for all (optionally orange for plunger if desired). Or whatever.
 
 Steps to customize and building your own RS winder:
-1. Download and install FreeCAD. Why FreeCAD? It is lightweight, free, open-source, works on any machine, doesn't spy on you, and doesn't constantly nag you to pay for features you will never need.
+1. Download and install [FreeCAD](https://freecadweb.org/downloads.php). It is an amazing piece of free and open-source software.
 2. Download the RS mainspring winder FreeCAD project file and open it.
 3. Open up the parameter spreadsheet on the right pane by double clicking on it.
 4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel dimensions.
@@ -40,9 +40,6 @@ Steps to customize and building your own RS winder:
 8. Clean/wash all parts and then (optionally) lubricate all contact points appropriately.
 
 **NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
-
-##### TODO: Add link to FreeCAD installer, mention 0.19 works.
-##### TODO: Add link to FreeCAD project file.
 ##### TODO: Add link to STL files and proper description so some users can avoid using FreeCAD.
 ##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
 
@@ -61,12 +58,14 @@ Steps to using the RS winder:
 
 # Cautionary Advice and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's watch if you are confident.
-- Be very careful with the winder part! Although it appears sturdy, dropping it will most likely break the arbour.
+- Be very careful with the winder base part! Although it appears sturdy, dropping it will most likely break the arbour.
 - When pushing the final bit of the mainspring into the housing barrel, take care not to accidentally push upwards and get it stuck in between the plunger and the housing barrel walls. You may need to reset and try again if this happens.
-- Make sure to apply downward force while pluging the mainspring back in, otherwise it will most definately fail to properly pop in.
+- Double check if the plunger base is level, round and flat. If it isnt, there is a higher chance for the mainspring to get caught. So work it down with a metal file or sandpaper.
+- Make sure to apply downward force while pluging the mainspring back in, otherwise it may fail to pop back into the barrel.
+- It is good to lubricate the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
 - When unwinding, do not overdo it as the hook may scratch the mainspring.
 - It is recommend to practice first with spare mainsprings to get a feel of using the RS winder.
-- The barrel bowl part can also be used to snap the barrel lid back on, and can be used to hold it during assembly/disassembly.
+- The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly.
  
 # Future Updates
 - Store common parameters for known movements in a library file.
@@ -81,7 +80,7 @@ So if you like my work, consider:
 - Contributing to the design or experimenting with 3D printouts using untested parameters.
 - Share the dimensions of known existing mainspring barrel and parts.
 - Offering to print and ship experimental 3D printed designs for me.
-- Sponsoring me, whichs helps me out with experimental upgrades/fixes.
-- Or just buy me a drink, that will also work :)
+- [Sponsoring me](https://github.com/sponsors/vishnu350), whichs helps me out with paying for experimental prints.
+- Or just [buy me](https://github.com/sponsors/vishnu350) a drink, that will also work :)
 
-Thanks to Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660, the same free Creative Commons licensing scheme is reused for this work.
+Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse, and the same free Creative Commons licensing scheme is reused for this work.
