@@ -14,7 +14,7 @@ The RS mainspring winder is a pleasure to use when constructed correctly, and ca
 There are five parts to the RS mainspring winder:
 - **The housing barrel**. This 3D printed part has a barrel that houses the mainspring and plunger, and the knurling pattern on the top is akin to a rising sun.
 - **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up.
-- **The barrel bowl**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in. Can also be used to snap the barrel lid back on.
+- **The barrel bowl**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
 - **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour.
 
@@ -53,18 +53,20 @@ Steps to using the RS winder:
 2. Place the mainspring into the arbour on the winder part.
 3. Use a tweezer to latch the anchor onto the mainspring hole (see video).
 4. Carefully put the housing barrel and winder parts together , careful not to wind in reverse as this will unlatch the anchor.
-5. Wind the mainspring until end tail of the mainspring sticks out. Ram it in **until it cannot be seen**. If it refuses to go in, wind a little bit more to make it easier to do so (but not too much).
+5. Wind the mainspring until end tail of the mainspring sticks out. Ram it in with any tool of your choosing,  **until it can no longer be seen**. If it refuses to go in, wind a little bit more to make space for it to do so (but not too much).
 6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. The anchor will naturally unlatch, allowing you to just pull off the winder part. If the mainspring is still latched, then gently unwind a little bit more.
 7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
-8. Place it on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
+8. Place the housing+bowl on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
 9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring.
 
-# Caution!
+# Cautionary Advice and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's watch if you are confident.
-- Be very careful with the winder base! Although it appears sturdy, dropping it will most likely break the arbour.
+- Be very careful with the winder part! Although it appears sturdy, dropping it will most likely break the arbour.
 - When pushing the final bit of the mainspring into the housing barrel, take care not to accidentally push upwards and get it stuck in between the plunger and the housing barrel walls. You may need to reset and try again if this happens.
 - Make sure to apply downward force while pluging the mainspring back in, otherwise it will most definately fail to properly pop in.
 - When unwinding, do not overdo it as the hook may scratch the mainspring.
+- It is recommend to practice first with spare mainsprings to get a feel of using the RS winder.
+- The barrel bowl part can also be used to snap the barrel lid back on, and can be used to hold it during assembly/disassembly.
  
 # Future Updates
 - Store common parameters for known movements in a library file.
@@ -72,7 +74,14 @@ Steps to using the RS winder:
 - Resolve issue with version text font selection when using Windows/Linux, select a better open font.
 - Further tweak design for better quality and ease of use.
 
-# Thanks
-Thanks to Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660, the same free Creative Commons licensing scheme is reused for this work. However the design was lacking in polish, so I rebuilt it from scratch.
+# Thanks & How To Contribute
+I do not have a 3D printer, so I have been paying for each experimental print with the help of a local 3D print company. I also lack the knowledge on the complete spectrum of barrel sizes, mainspring sizes, etc, so I can never build something that is perfect without your help.
 
-If you like my work, consider contributing to the design or experimenting with 3D printouts using untested parameters. Or just buy me a drink by sponsoring me, that will also work :)
+So if you like my work, consider:
+- Contributing to the design or experimenting with 3D printouts using untested parameters.
+- Share the dimensions of known existing mainspring barrel and parts.
+- Offering to print and ship experimental 3D printed designs for me.
+- Sponsoring me, whichs helps me out with experimental upgrades/fixes.
+- Or just buy me a drink, that will also work :)
+
+Thanks to Fratink for coming up with the original design: https://www.thingiverse.com/thing:3540660, the same free Creative Commons licensing scheme is reused for this work.
