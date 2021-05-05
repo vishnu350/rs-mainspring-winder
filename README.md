@@ -61,14 +61,14 @@ Steps to using the RS winder:
 - Be very careful with the winder base part! Although it appears sturdy, dropping it will most likely break the arbour.
 - When pushing the final bit of the mainspring into the housing barrel, take care not to accidentally push upwards and get it stuck in between the plunger and the housing barrel walls. You may need to reset and try again if this happens.
 - Double check if the plunger base is level, round and flat. If it isnt, there is a higher chance for the mainspring to get caught. So work it down with a metal file or sandpaper.
-- Make sure to apply downward force while pluging the mainspring back in, otherwise it may fail to pop back into the barrel.
+- Make sure to apply downward force while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to lubricate the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
-- When unwinding, do not overdo it as the hook may scratch the mainspring.
+- When unwinding, be gentle so as to not scratch the mainspring with the anchor, however unlikely it may seem.
 - It is recommend to practice first with spare mainsprings to get a feel of using the RS winder.
 - The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly.
  
 # Future Updates
-- Store common parameters for known movements in a library file.
+- Store common parameters/dimensions for known movements in a library file.
 - Add python based generator to use this file and generate/release commonly used winder parameter/sizes for known movements.
 - Resolve issue with version text font selection when using Windows/Linux, select a better open font.
 - Further tweak design for better quality and ease of use.
@@ -83,4 +83,4 @@ So if you like my work, please consider:
 - [Sponsoring me](https://github.com/sponsors/vishnu350), whichs helps me out with paying for experimental prints.
 - Or just [buy me](https://github.com/sponsors/vishnu350) a drink, that will also work :)
 
-Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse, and the same free Creative Commons licensing scheme is reused for this work.
+Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
