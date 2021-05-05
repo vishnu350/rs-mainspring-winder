@@ -65,7 +65,7 @@ Steps to using the RS winder:
 - When pushing the final bit of the mainspring into the housing barrel, take care not to accidentally push upwards and get it stuck in between the plunger and the housing barrel walls. You may need to reset and try again if this happens.
 - Make sure to apply downward force while pluging the mainspring back in, otherwise it will most definately fail to properly pop in.
 - When unwinding, do not overdo it as the hook may scratch the mainspring.
-- 
+ 
 # Future Updates
 - Store common parameters for known movements in a library file.
 - Add python based generator to use this file and generate/release commonly used winder parameter/sizes for known movements.
