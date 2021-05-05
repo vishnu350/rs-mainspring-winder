@@ -29,18 +29,20 @@ Recommended 3D printing options:
 - **Printer: Prusa I3 MK3** or better.
 - **Color: White** for all (optionally orange for plunger if desired). Or whatever.
 
-Steps to customize and building your own RS winder:
+Steps to build your RS mainspring winder:
+1. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases) containing the STL files you need for printing. Alternatively, you may customize and generate these yourself (see 'customizing' steps below).
+2. 3D print the four parts with the recommended 3D print settings, or look for someone on eBay to help you. Just send them the STL files.
+3. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
+4. Clean all parts and then lubricate all contact points appropriately.
+
+Steps to customizing your RS winder:
 1. Download and install [FreeCAD](https://freecadweb.org/downloads.php). It is an amazing piece of free and open-source software.
-2. Download the RS mainspring winder FreeCAD project file and open it.
+2. Download the RS mainspring winder [FreeCAD project file](https://github.com/vishnu350/rs-mainspring-winder/blob/main/rs-winder.FCStd) and open it.
 3. Open up the parameter spreadsheet on the right pane by double clicking on it.
 4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel dimensions.
 5. Click on each part and then export as STL files (winder, housing, bowl, plunger).
-6. 3D print these four parts with the recommended print settings, or look for someone on eBay to help you.
-7. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
-8. Clean/wash all parts and then (optionally) lubricate all contact points appropriately.
 
 **NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
-##### TODO: Add link to STL files and proper description so some users can avoid using FreeCAD.
 ##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
 
 # Using the RS winder
