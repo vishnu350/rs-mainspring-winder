@@ -74,7 +74,7 @@ Steps to using the RS winder:
 - Further tweak design for better quality and ease of use.
 
 # Thanks & How To Contribute
-I do not have a 3D printer, so I have been paying for each experimental print with the help of a local 3D print company. I also lack the knowledge on the complete spectrum of barrel sizes, mainspring sizes, etc, so I can never build something that is perfect without your help.
+I lack the knowledge on the complete spectrum of barrel sizes, mainspring sizes, etc, so I can never build something that is perfect without your help. I also do not have a 3D printer, so I have been paying for each experimental print with the help of a local 3D print company.
 
 So if you like my work, please consider:
 - Contributing to the design or experimenting with 3D printouts using untested parameters.
