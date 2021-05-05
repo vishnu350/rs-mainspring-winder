@@ -38,9 +38,11 @@ Steps to build your RS mainspring winder:
 Steps to customizing your RS winder:
 1. Download and install [FreeCAD](https://freecadweb.org/downloads.php). It is an amazing piece of free and open-source software.
 2. Download the RS mainspring winder [FreeCAD project file](https://github.com/vishnu350/rs-mainspring-winder/blob/main/rs-winder.FCStd) and open it.
-3. Open up the parameter spreadsheet on the right pane by double clicking on it.
+3. Open up the parameter spreadsheet on the left pane by double clicking on it.
 4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel dimensions.
-5. Click on each part and then export as STL files (winder, housing, bowl, plunger).
+5. Make sure a proper font file is selected for Version_Text on the housing part.
+6. Recompute the entire design by pressing CTRL+R.
+7. Click on each part and then export as STL files (winder, housing, bowl, plunger).
 
 **NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
 ##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
