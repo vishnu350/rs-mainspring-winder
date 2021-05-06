@@ -28,12 +28,13 @@ Recommended 3D printing options:
 - **Color: White** for all (optionally orange for plunger if desired). Or whatever.
 
 Steps to build your RS mainspring winder:
-1. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
+1. Use a caliper to measure your mainspring barrel inner and outer diameters. The outer diameter includes the main wheel (gear).
+2. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
    - Select your winder base part STL file (standard size).
-   - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to use matching sizes for both parts.
-   - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter (including gears).
+   - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes for both parts.
+   - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter.
    - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
-3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you.
+3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
 4. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
 5. Clean all parts and then lubricate all contact points appropriately.
 
@@ -45,8 +46,8 @@ Steps to customizing your RS winder:
 1. Download and install [FreeCAD](https://freecadweb.org/downloads.php). It is an amazing piece of free and open-source software.
 2. Download the RS mainspring winder [FreeCAD project file](https://github.com/vishnu350/rs-mainspring-winder/blob/main/rs-winder.FCStd) and open it.
 3. Open up the parameter spreadsheet on the left pane by double clicking on it.
-4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel dimensions.
-5. Make sure a proper font file is selected for *Version_Text* on the housing part.
+4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel/etc dimensions.
+5. Make sure a proper font file is selected for *Version_Text* on the housing part. *FreeSansBold.ttf* is included in the repo.
 6. Recompute the entire design by pressing CTRL+R, and check if the parts look alright.
 7. Click on each part and then export as STL files (winder, housing, bowl, plunger).
 
