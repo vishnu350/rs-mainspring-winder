@@ -28,10 +28,14 @@ Recommended 3D printing options:
 - **Color: White** for all (optionally orange for plunger if desired). Or whatever.
 
 Steps to build your RS mainspring winder:
-1. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases) containing the STL files you need for printing. Alternatively, you may customize and generate these yourself (see 'customizing' steps below).
-2. 3D print the four parts with the recommended 3D print settings, or look for someone on eBay to help you. Just send them the STL files.
-3. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
-4. Clean all parts and then lubricate all contact points appropriately.
+1. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
+  - Select your winder base part STL file (standard size).
+  - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to use matching sizes for both parts.
+  - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter (including gears).
+  - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
+3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you.
+4. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
+5. Clean all parts and then lubricate all contact points appropriately.
 
 Steps to customizing your RS winder:
 1. Download and install [FreeCAD](https://freecadweb.org/downloads.php). It is an amazing piece of free and open-source software.
@@ -72,7 +76,6 @@ Steps to using the RS winder:
 # Future Updates
 - Store common parameters/dimensions for known movements in a library file.
 - Add python based generator to use this file and generate/release commonly used winder parameter/sizes for known movements.
-- Resolve issue with version text font selection when using Windows/Linux, select a better open font.
 - Further tweak design for better quality and ease of use.
 
 # Thanks & How To Contribute
