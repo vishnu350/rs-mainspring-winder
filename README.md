@@ -3,7 +3,7 @@ This is the 3D printable "Rising Sun" watch mainspring winder for watchmaking ho
 
 Watch mainspring winding for hobbyist has always been a problem, as most of us cannot afford the $1000 Bergeon set to wind their vintage unbranded mainsprings/barrels. In the worst case scenario, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding, which will definitely kink or damage the mainspring. Worry not, as I have come to your rescue.
 
-This FreeCAD based mainspring winder is designed to be 3D printed, and will approximately cost $5/set by most 3D print service providers (use eBay to find someone near you). The design is parameterized, allowing you to dynamically change the size/dimensions of the winder and the entire design will be recalculated accordingly.
+This mainspring winder is designed using FreeCAD to be 3D printed, and will approximately cost $5/set by most 3D print service providers (use eBay to find someone near you). The design is parameterized, allowing you to dynamically change the size/dimensions of the winder and the entire design will be recalculated accordingly.
 
 The RS mainspring winder is a pleasure to use when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
 
@@ -38,8 +38,8 @@ Steps to customizing your RS winder:
 2. Download the RS mainspring winder [FreeCAD project file](https://github.com/vishnu350/rs-mainspring-winder/blob/main/rs-winder.FCStd) and open it.
 3. Open up the parameter spreadsheet on the left pane by double clicking on it.
 4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel dimensions.
-5. Make sure a proper font file is selected for Version_Text on the housing part.
-6. Recompute the entire design by pressing CTRL+R.
+5. Make sure a proper font file is selected for *Version_Text* on the housing part.
+6. Recompute the entire design by pressing CTRL+R, and check if the parts look alright.
 7. Click on each part and then export as STL files (winder, housing, bowl, plunger).
 
 **NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
@@ -51,23 +51,23 @@ Steps to using the RS winder:
 1. Place the plunger into the housing barrel.
 2. Place the mainspring into the arbour on the winder part.
 3. Use a tweezer to latch the anchor onto the mainspring hole.
-4. Carefully put the housing barrel and winder parts together , careful not to wind in reverse as this will unlatch the anchor.
+4. Carefully put the housing barrel and winder parts together. Take care **not to wind in reverse** as this will unlatch the anchor.
 5. Wind the mainspring until end tail of the mainspring sticks out. Ram it in with any tool of your choosing,  **until it can no longer be seen**. If it refuses to go in, wind a little bit more to make space for it to do so (but not too much).
-6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. The anchor will naturally unlatch, allowing you to just pull off the winder part. If the mainspring is still latched, then gently unwind a little bit more.
+6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. Once unwound, the anchor will naturally unlatch, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
 7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
 8. Place the housing+bowl parts on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
 9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring.
 
 # Warnings and Tips
-- As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's watch if you are confident.
+- As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
 - Be very careful with the winder base part! Although it appears sturdy, **dropping it will most likely break the arbour**.
 - When pushing the final bit of the mainspring into the housing barrel, take care **not to accidentally push upwards and get it stuck** in between the plunger and the housing barrel walls. You may need to reset and try again if this happens.
 - Double check if the plunger base is **level, round and flat**. If it isnt, there is a higher chance for the mainspring to get caught. So work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
-- When unwinding, be gentle so as to not scratch the mainspring with the anchor, however unlikely it may seem.
-- It is recommend to practice first with spare mainsprings to get a feel of using the RS winder.
-- The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly.
+- When unwinding, be gentle so as to not scratch the mainspring with the anchor, even though this is unlikely.
+- It is recommend to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
+- The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly service.
  
 # Future Updates
 - Store common parameters/dimensions for known movements in a library file.
