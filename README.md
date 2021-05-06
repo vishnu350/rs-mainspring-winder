@@ -29,13 +29,17 @@ Recommended 3D printing options:
 
 Steps to build your RS mainspring winder:
 1. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
-  - Select your winder base part STL file (standard size).
-  - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to use matching sizes for both parts.
-  - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter (including gears).
-  - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
+   - Select your winder base part STL file (standard size).
+   - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to use matching sizes for both parts.
+   - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter (including gears).
+   - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you.
 4. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
 5. Clean all parts and then lubricate all contact points appropriately.
+
+##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
+
+# Customizing/Generating the RS winder
 
 Steps to customizing your RS winder:
 1. Download and install [FreeCAD](https://freecadweb.org/downloads.php). It is an amazing piece of free and open-source software.
@@ -46,8 +50,10 @@ Steps to customizing your RS winder:
 6. Recompute the entire design by pressing CTRL+R, and check if the parts look alright.
 7. Click on each part and then export as STL files (winder, housing, bowl, plunger).
 
+To automatically generate the STL files for the various different sizes of all the RS winder parts, clone the repo and execute the Python FreeCAD script using the following command:<br />
+`freecadcmd generate_stl.py`
+
 **NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
-##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
 
 # Using the RS winder
 
