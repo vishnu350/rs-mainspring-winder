@@ -28,9 +28,9 @@ for n in spring_d:
     sheet.set("spr_d", n)
     sheet.set("version", n+"MM")
     if len(n) < 4:
-        sheet.set("version_x_offs", "-5.20")
+        sheet.set("version_x_offs", "-5.50")
     else:
-        sheet.set("version_x_offs", "-6.30")
+        sheet.set("version_x_offs", "-6.60")
     doc.recompute(None,True,True)
     export_stl("Body", "rs-winder-plunger-"+n+"mm.stl")
     export_stl("Body001", "rs-winder-housing-"+n+"mm.stl")
