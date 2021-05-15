@@ -63,7 +63,7 @@ Steps to using the RS winder:
 2. Place the mainspring into the arbour on the winder part.
 3. Use a tweezer to latch the anchor onto the mainspring hole.
 4. Carefully put the housing barrel and winder parts together. Take care **not to wind in reverse** as this will unlatch the anchor.
-5. Wind the mainspring until end tail of the mainspring sticks out. Ram it in with any tool of your choosing,  **until it can no longer be seen**. If it refuses to go in, wind a little bit more to make space for it to do so (but not too much).
+5. Wind the mainspring until (both) end tails of the mainspring sticks out. Gently push it in with any tool of your choosing,  **such that both tails are in the barrel**. Continue to wind a little bit more until it goes in completely and can no longer be seen.
 6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. Once unwound, the anchor will naturally unlatch, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
 7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
 8. Place the housing+bowl parts on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
