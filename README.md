@@ -14,9 +14,9 @@ There are five parts to the RS mainspring winder:
 - **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up.
 - **The barrel bowl**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The anchor**. Fashion this part out of a stapler clip and insert into the hole on the winder beside the arbour.
+- **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour.
 
-**NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler clip is an everyday item accessible to everyone, and is perfect for this task.*
+**NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
 
 # Building the RS winder
 
@@ -67,7 +67,7 @@ Steps to using the RS winder:
 6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. Once unwound, the anchor will naturally unlatch, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
 7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
 8. Place the housing+bowl parts on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
-9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler clip to wind up a fancy Swiss mainspring.
+9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler pin to wind up a fancy Swiss mainspring.
 
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
