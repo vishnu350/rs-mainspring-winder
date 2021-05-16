@@ -7,6 +7,8 @@ This mainspring winder is designed using FreeCAD to be easily 3D printed with no
 
 The RS mainspring winder is a pleasure to use when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
 
+**Watch the Youtube video [here](https://youtu.be/OAfQTk89P3s) for a better understanding of the parts and how to the RS winder.**
+
 # RS Winder Parts Description
 
 There are five parts to the RS mainspring winder:
@@ -37,8 +39,6 @@ Steps to build your RS mainspring winder:
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
 4. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
 5. Clean all parts and then lubricate all contact points appropriately.
-
-##### TODO: Add more description on anchor part with pics and how to hold the RS winder.
 
 # Customizing/Generating the RS winder
 
