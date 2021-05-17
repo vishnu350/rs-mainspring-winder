@@ -64,7 +64,7 @@ Steps to using the RS winder:
 3. Use a tweezer to latch the anchor onto the mainspring hole.
 4. Carefully put the housing barrel and winder parts together. Take care **not to wind in reverse** as this will unlatch the anchor.
 5. Wind the mainspring until (both) end tails of the mainspring sticks out. Gently push it in with any tool of your choosing,  **such that both tails are in the barrel**. Continue to wind a little bit more until it goes in completely and can no longer be seen.
-6. Once done, **unwind** by going in the **reverse direction until there is no more force from the mainspring**. Once unwound, the anchor will naturally unlatch, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
+6. Once done, **unwind** by going in the **reverse direction until there is no more backpressure from the mainspring**. Once unwound, the anchor will naturally unlatch, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
 7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
 8. Place the housing+bowl parts on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
 9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler pin to wind up a fancy Swiss mainspring.
@@ -76,8 +76,8 @@ Steps to using the RS winder:
 - Double check if the plunger base is **level, round and flat**. If it isnt, there is a higher chance for the mainspring to get caught. So work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
-- When unwinding, be gentle so as to not scratch the mainspring with the anchor, even though this is unlikely.
-- It is recommend to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
+- When unwinding, be gentle so as to not scratch the mainspring with the anchor.
+- It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
 - The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly service.
  
 # Future Updates
@@ -92,7 +92,7 @@ So if you like my work, please consider:
 - Contributing to the design or experimenting with 3D printouts using untested parameters.
 - Share the dimensions of known existing mainspring barrel and parts.
 - Offering to print and ship experimental 3D printed designs for me.
-- [Sponsoring me](https://github.com/sponsors/vishnu350), whichs helps me out with paying for experimental prints.
+- [Sponsoring me](https://github.com/sponsors/vishnu350), which helps me out with paying for experimental prints.
 - Or just [buy me](https://github.com/sponsors/vishnu350) a drink, that will also work :)
 
 Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
