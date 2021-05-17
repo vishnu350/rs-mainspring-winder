@@ -72,7 +72,6 @@ Steps to using the RS winder:
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
 - Be very careful with the winder base part! Although it appears sturdy, **dropping it will most likely break the arbour**.
-- When pushing the final bit of the mainspring into the housing barrel, take care **not to accidentally push upwards and get it stuck** in between the plunger and the housing barrel walls. You may need to reset and try again if this happens.
 - Double check if the plunger base is **level, round and flat**. If it isnt, there is a higher chance for the mainspring to get caught. So work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
