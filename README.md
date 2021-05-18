@@ -7,7 +7,7 @@ This mainspring winder is designed using FreeCAD to be easily 3D printed with no
 
 The RS mainspring winder is a pleasure to use when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
 
-**Watch the Youtube video [here](https://youtu.be/OAfQTk89P3s) for a better understanding of the RS winder parts and how to wind mainsprings with it.**
+**Watch the Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**
 
 # RS Winder Parts Description
 
