@@ -1,5 +1,5 @@
 # Introduction
-This is the 3D printable "Rising Sun" watch mainspring winder project for watchmaking hobbyists. This is the 2021 solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk, as with anything that is free.
+This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders. Everything provided here is free and open source. This is the 2021 solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1000 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring. Worry not, as I have come to your rescue.
 
@@ -7,7 +7,7 @@ This mainspring winder is designed using FreeCAD to be easily 3D printed with no
 
 The RS mainspring winder is a pleasure to use when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
 
-**Watch the Youtube video [here](https://youtu.be/OAfQTk89P3s) for a better understanding of the parts and how to the RS winder.**
+**Watch the Youtube video [here](https://youtu.be/OAfQTk89P3s) for a better understanding of the RS winder parts and how to wind mainsprings with it.**
 
 # RS Winder Parts Description
 
