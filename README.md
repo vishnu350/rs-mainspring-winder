@@ -7,7 +7,7 @@ This mainspring winder is designed using FreeCAD to be easily 3D printed with no
 
 The RS mainspring winder is a pleasure to use when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
 
-**Watch the Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**
+**Watch this Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**
 
 # RS Winder Parts Description
 
@@ -63,16 +63,17 @@ Steps to using the RS winder:
 2. Place the mainspring into the arbour on the winder part.
 3. Use a tweezer to latch the anchor onto the mainspring hole.
 4. Carefully put the housing barrel and winder parts together. Take care **not to wind in reverse** as this will unlatch the anchor.
-5. Wind the mainspring until (both) end tails of the mainspring sticks out. Gently push it in with any tool of your choosing,  **such that both tails are in the barrel**. Continue to wind a little bit more until it goes in completely and can no longer be seen.
-6. Once done, **unwind** by going in the **reverse direction until there is no more backpressure from the mainspring**. Once unwound, the anchor will naturally unlatch, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
+5. Wind the mainspring until (both) end tails of the mainspring sticks out. Gently push it in **such that both tails are in the barrel**. Continue to wind a little bit more until it goes in completely and can no longer be seen.
+6. Once done, **unwind** by twisting in the reverse direction until there is **no more backpressure** from the mainspring. **The anchor should naturally unlatch**, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
 7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
 8. Place the housing+bowl parts on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
 9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler pin to wind up a fancy Swiss mainspring.
 
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
-- Be very careful with the winder base part! Although it appears sturdy, **dropping it will most likely break the arbour**.
-- Double check if the plunger base is **level, round and flat**. If it isnt, there is a higher chance for the mainspring to get caught. So work it down with a metal file or sandpaper.
+- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [Youtube video](https://youtu.be/OAfQTk89P3s) for an elegant way to do this.
+- Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**.
+- Double check if the plunger base is **level, round and flat**. If it isnt, work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
 - When unwinding, be gentle so as to not scratch the mainspring with the anchor.
