@@ -71,6 +71,7 @@ Steps to using the RS winder:
 
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
+- Take you time to properly **fashion the stapler pin to the right size**. If it is not correct, it will easily get unhooked while winding or may even cause the winding base arbour to break.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [Youtube video](https://youtu.be/OAfQTk89P3s) for an elegant way to do this.
 - Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**.
 - Double check if the plunger base is **level, round and flat**. If it isnt, work it down with a metal file or sandpaper.
