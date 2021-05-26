@@ -47,7 +47,7 @@ Steps to customizing your RS winder:
 2. Download the RS mainspring winder [FreeCAD project file](https://github.com/vishnu350/rs-mainspring-winder/blob/main/rs-winder.FCStd) and open it.
 3. Open up the parameter spreadsheet on the left pane by double clicking on it.
 4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel/etc dimensions.
-5. Make sure a proper font file is selected for *Version_Text* on the housing part. *FreeSansBold.ttf* is included in the repo.
+5. Make sure a proper font file is selected for *Version_Text* on the housing part. *Ubuntu-B.ttf* is included in the repo.
 6. Recompute the entire design by pressing CTRL+R, and check if the parts look alright.
 7. Click on each part and then export as STL files (winder, housing, bowl, plunger).
 
@@ -57,8 +57,6 @@ To automatically generate the STL files for the various different sizes of all t
 **NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
 
 # Using the RS winder
-
-Steps to using the RS winder:
 1. Place the plunger into the housing barrel.
 2. Place the mainspring into the arbour on the winder part.
 3. Use a tweezer to latch the anchor onto the mainspring hole.
@@ -82,12 +80,12 @@ Steps to using the RS winder:
 - The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly service.
  
 # Future Updates
+- Split winders to three classes: large (pocket watch), medium (wrist watches), and small (women's wrist watches).
 - Store common parameters/dimensions for known movements in a library file.
-- Add python based generator to use this file and generate/release commonly used winder parameter/sizes for known movements.
 - Further tweak design for better quality and ease of use.
 
 # Thanks & How To Contribute
-I lack the knowledge on the complete spectrum of barrel sizes, mainspring sizes, etc, so I can never build something that is perfect without your help. I also do not have a 3D printer, so I have been paying for each experimental print with the help of a local 3D print company.
+I lack the knowledge on the complete spectrum of barrel sizes, mainspring sizes, etc, so I can never build something that is perfect without your help. I also do not have a 3D printer, so it harder for me to experiment as I pay for each experimental print.
 
 So if you like my work, please consider:
 - Contributing to the design or experimenting with 3D printouts using untested parameters.
