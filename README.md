@@ -23,8 +23,8 @@ There are five parts to the RS mainspring winder:
 # Building the RS winder
 
 Recommended 3D printing options:
-- **Material: PLA** (needed for the accuracy over PETG, PLA+, Nylon, etc). Avoid cheap or low quality PLA.
-- **Filling: 100%** (lower values are not recommended, parts may crumble under stress).
+- **Material: PLA** (best for high accuracy prints). Avoid cheap or low quality materials.
+- **Filling: 100%** (parts may crumble under stress if lower).
 - **Layer thickness: 200 µm** or better.
 - **Printer: Prusa I3 MK3** or better.
 - **Color: White** for all (optionally orange for plunger if desired). Or whatever.
@@ -37,8 +37,8 @@ Steps to build your RS mainspring winder:
    - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter.
    - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
-4. Fashion a stapler pin as an anchor and insert it into the hole beside the arbour on the winder. Use a file if you need to trim it down.
-5. Clean all parts and then lubricate all contact points appropriately.
+4. Fashion a stapler pin (with a pair of pliers) into an anchor, and insert it into any of the holes on the winder base part. The hole size selected should ideally fit both the staple pin and mainspring hole.
+6. Clean all parts and then lubricate all contact points appropriately.
 
 # Customizing/Generating the RS winder
 
