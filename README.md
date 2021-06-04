@@ -85,13 +85,11 @@ To automatically generate the STL files for the various different sizes of all t
 - Further tweak design for better quality and ease of use.
 
 # Thanks & How To Contribute
-I lack the knowledge on the complete spectrum of barrel sizes, mainspring sizes, etc, so I can never build something that is perfect without your help. I also do not have a 3D printer, so it harder for me to experiment as I pay for each experimental print.
-
-So if you like my work, please consider:
-- Contributing to the design or experimenting with 3D printouts using untested parameters.
-- Share the dimensions of known existing mainspring barrel and parts.
-- Offering to print and ship experimental 3D printed designs for me.
-- [Sponsoring me](https://github.com/sponsors/vishnu350), which helps me out with paying for experimental prints.
+If you like my work, please consider:
+- Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
+- Share your success/failure story on your using the RS winder for unknown mainsprings/barrels.
+- Offering to print and ship experimental 3D printed designs for me. I dont have a printer.
+- [Sponsoring me](https://github.com/sponsors/vishnu350) to help out with paying for experimental prints.
 - Or just [buy me](https://github.com/sponsors/vishnu350) a drink, that will also work :)
 
 Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
