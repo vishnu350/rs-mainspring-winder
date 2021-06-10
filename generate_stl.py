@@ -47,8 +47,6 @@ sheet.set("spr_h",  "1.6")
 sheet.set("arb_d",  "2.1")
 sheet.set("hook_d", "0.5")
 sheet.set("body_d", "25.0")
-sheet.set("spr_dmax", "12.5")
-sheet.set("spr_dmin", "7.0")
 doc.recompute(None,True,True)
 
 ## Generate winder base
@@ -79,10 +77,8 @@ for n in bowl1_d:
 ## Setup large winder params
 sheet.set("spr_h",  "2.8")
 sheet.set("arb_d",  "3.0")
-sheet.set("hook_d", "0.7")
+sheet.set("hook_d", "0.55")
 sheet.set("body_d", "30.0")
-sheet.set("spr_dmax", "18.5")
-sheet.set("spr_dmin", "13.0")
 sheet.set("version_x_offs", "-6.60")
 doc.recompute(None,True,True)
 
