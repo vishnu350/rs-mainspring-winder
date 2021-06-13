@@ -49,8 +49,17 @@ sheet.set("hook_d", "0.5")
 sheet.set("body_d", "25.0")
 doc.recompute(None,True,True)
 
-## Generate winder base
-export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal.stl")
+## Generate winder base (with arbor)
+doc.getObject('Body002').Tip=doc.getObject('Pocket005')
+doc.getObject('Pocket005').Reversed = 0
+doc.recompute(None,True,True)
+export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-arbor.stl")
+
+## Generate winder base (with arbor hole)
+doc.getObject('Body002').Tip=doc.getObject('Pocket015')
+doc.getObject('Pocket005').Reversed = 1
+doc.recompute(None,True,True)
+export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-hole.stl")
 
 ## Generate housing/plunger (based on spring diameter)
 for n in spring1_d:
@@ -76,14 +85,23 @@ for n in bowl1_d:
 ###############################
 ## Setup large winder params
 sheet.set("spr_h",  "2.8")
-sheet.set("arb_d",  "3.0")
+sheet.set("arb_d",  "3.125")
 sheet.set("hook_d", "0.55")
 sheet.set("body_d", "30.0")
 sheet.set("version_x_offs", "-6.60")
 doc.recompute(None,True,True)
 
-## Generate winder base
-export_stl("Body002", "Release/large/winder-base/rs-winder-base-large.stl")
+## Generate winder base (with arbor)
+doc.getObject('Body002').Tip=doc.getObject('Pocket005')
+doc.getObject('Pocket005').Reversed = 0
+doc.recompute(None,True,True)
+export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-arbor.stl")
+
+## Generate winder base (with arbor hole)
+doc.getObject('Body002').Tip=doc.getObject('Pocket015')
+doc.getObject('Pocket005').Reversed = 1
+doc.recompute(None,True,True)
+export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-hole.stl")
 
 ## Generate housing/plunger (based on spring diameter)
 for n in spring2_d:
