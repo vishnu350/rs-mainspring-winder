@@ -5,7 +5,7 @@ Watch mainspring winding for hobbyists has always been a problem, as most of us 
 
 This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will approximately cost $5/set by most 3D print service providers (use eBay to find someone near you). The design is parameterized, allowing you to dynamically change the size/dimensions of the winder and the entire design will be recalculated accordingly.
 
-The RS mainspring winder is a pleasure to use when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, but still tough enough to withstand the winding stress. Due to this, it may even be viable for professional watchmakers.
+The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
 
 **Watch this Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**
 
@@ -38,6 +38,7 @@ Steps to build your RS mainspring winder:
    - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
 4. Fashion a stapler pin (with a pair of pliers) into an anchor, and insert it into any of the holes on the winder base part. The hole size selected should ideally fit both the staple pin and mainspring hole.
+5. If you printed the winder base version with an arbor hole, then find an appropriate dowel pin to insert into it (2mm/3mm for normal/large winders respectively).
 6. Clean all parts and then lubricate all contact points appropriately.
 
 # Customizing/Generating the RS winder
