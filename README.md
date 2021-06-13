@@ -17,6 +17,7 @@ There are five parts to the RS mainspring winder:
 - **The barrel bowl**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
 - **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour.
+- **The arbour (optional)**. Get a dowel pin (or equivalent) with 2mm or 3mm diameter and place this at the center of the winder base. Only for the winder base version with a hole for the arbour.
 
 **NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
 
@@ -38,7 +39,7 @@ Steps to build your RS mainspring winder:
    - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
 4. Fashion a stapler pin (with a pair of pliers) into an anchor, and insert it into any of the holes on the winder base part. The hole size selected should ideally fit both the staple pin and mainspring hole.
-5. If you printed the winder base version with an arbor hole, then find an appropriate dowel pin to insert into it (2mm/3mm for normal/large winders respectively).
+5. If you printed the winder base version with an arbour hole, then find an appropriate dowel pin to insert into it (2mm/3mm for normal/large winders respectively).
 6. Clean all parts and then lubricate all contact points appropriately.
 
 # Customizing/Generating the RS winder
