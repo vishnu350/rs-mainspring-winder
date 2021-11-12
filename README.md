@@ -8,6 +8,7 @@ This mainspring winder is designed using FreeCAD to be easily 3D printed with no
 The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
 
 **Watch this Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**
+**Watchrepairtalk forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), for discussion or feedback.**
 
 # RS Winder Parts Description
 
@@ -92,6 +93,5 @@ If you like my work, please consider:
 - Share your success/failure story on your using the RS winder for unknown mainsprings/barrels.
 - Offering to print and ship experimental 3D printed designs for me. I dont have a printer.
 - [Sponsoring me](https://github.com/sponsors/vishnu350) to help out with paying for experimental prints.
-- Or just [buy me](https://github.com/sponsors/vishnu350) a drink, that will also work :)
 
 Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
