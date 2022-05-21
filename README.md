@@ -25,10 +25,10 @@ There are five parts to the RS mainspring winder:
 # Building the RS winder
 
 Recommended 3D printing options:
-- **Material: PLA** (best for high accuracy prints). Avoid cheap or low quality materials.
+- **Material: PLA** (best for high accuracy prints). Avoid overly cheap or low quality materials.
 - **Filling: 100%** (parts may crumble under stress if lower).
 - **Layer thickness: 200 µm** or better.
-- **Printer: Prusa I3 MK3** or better.
+- **Printer: Any decent 3D printer**, as long as you understand your printer settings well enough.
 - **Color: White** for all (optionally orange for plunger if desired). Or whatever.
 
 Steps to build your RS mainspring winder:
@@ -39,7 +39,7 @@ Steps to build your RS mainspring winder:
    - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter.
    - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
-4. Fashion a stapler pin (with a pair of pliers) into an anchor, and insert it into any of the holes on the winder base part. The hole size selected should ideally fit both the staple pin and mainspring hole.
+4. Fashion a stapler pin into an anchor with a pair of pliers, and use a metal file to reduce thickness (only if needed). Insert it into any of the holes on the winder base part that fits best.
 5. If you printed the winder base version with an arbour hole, then find an appropriate dowel pin to insert into it (2mm/3mm for normal/large winders respectively).
 6. Clean all parts and then lubricate all contact points appropriately.
 
@@ -72,7 +72,7 @@ To automatically generate the STL files for the various different sizes of all t
 
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
-- Take you time to properly **fashion the stapler pin to the right size**. If it is not correct, it will easily get unhooked while winding or may even cause the winding base arbour to break.
+- Take your time to properly **fashion the stapler pin to the right size**. If it is not correct, it will easily get unhooked while winding or may even cause the winding base arbour to break.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [Youtube video](https://youtu.be/OAfQTk89P3s) for an elegant way to do this.
 - Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**.
 - Double check if the plunger base is **level, round and flat**. If it isnt, work it down with a metal file or sandpaper.
