@@ -1,7 +1,7 @@
 # Introduction
-This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders. Everything provided here is free and open source. This is the 2021 solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
+This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
 
-Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1000 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring. Worry not, as I have come to your rescue.
+Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1000 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring. Worry not, as we have come to your rescue.
 
 This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will approximately cost $5/set by most 3D print service providers (use eBay to find someone near you). The design is parameterized, allowing you to dynamically change the size/dimensions of the winder and the entire design will be recalculated accordingly.
 
@@ -17,7 +17,7 @@ There are five parts to the RS mainspring winder:
 - **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up.
 - **The barrel bowl**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour.
+- **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)).
 - **The arbour (optional)**. Get a dowel pin (or equivalent) with 2mm or 3mm diameter and place this at the center of the winder base. Only for the winder base version with a hole for the arbour.
 
 **NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
@@ -29,7 +29,7 @@ Recommended 3D printing options:
 - **Filling: 100%** (parts may crumble under stress if lower).
 - **Layer thickness: 200 µm** or better.
 - **Printer: Any decent 3D printer**, as long as you understand your printer settings well enough.
-- **Color: White** for all (optionally orange for plunger if desired). Or whatever.
+- **Color: Any**, best if all parts are the same color for equal tolerances between prints.
 
 Steps to build your RS mainspring winder:
 1. Use a caliper to measure your mainspring barrel inner and outer diameters. The outer diameter includes the main wheel (gear).
@@ -39,7 +39,7 @@ Steps to build your RS mainspring winder:
    - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter.
    - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
-4. Fashion a stapler pin into an anchor with a pair of pliers, and use a metal file to reduce thickness (only if needed). Insert it into any of the holes on the winder base part that fits best.
+4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook), and use a metal file to reduce thickness (only if needed). Insert it into any of the holes on the winder base part that fits best.
 5. If you printed the winder base version with an arbour hole, then find an appropriate dowel pin to insert into it (2mm/3mm for normal/large winders respectively).
 6. Clean all parts and then lubricate all contact points appropriately.
 
@@ -91,7 +91,6 @@ To automatically generate the STL files for the various different sizes of all t
 If you like my work, please consider:
 - Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
 - Share your success/failure story on your using the RS winder for unknown mainsprings/barrels.
-- Offering to print and ship experimental 3D printed designs for me. I dont have a printer.
-- [Sponsoring me](https://github.com/sponsors/vishnu350) to help out with paying for experimental prints.
+- Offering to print or ship experimental 3D printed designs for me.
 
 Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
