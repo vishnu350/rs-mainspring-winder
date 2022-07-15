@@ -31,11 +31,13 @@ os.mkdir("Release/normal")
 os.mkdir("Release/large")
 os.mkdir("Release/normal/winder-base")
 os.mkdir("Release/normal/housing-barrel")
-os.mkdir("Release/normal/barrel-bowl")
+os.mkdir("Release/normal/bowl-barrel")
+os.mkdir("Release/normal/bowl-setter")
 os.mkdir("Release/normal/plunger")
 os.mkdir("Release/large/winder-base")
 os.mkdir("Release/large/housing-barrel")
-os.mkdir("Release/large/barrel-bowl")
+os.mkdir("Release/large/bowl-barrel")
+os.mkdir("Release/large/bowl-setter")
 os.mkdir("Release/large/plunger")
 
 
@@ -44,8 +46,8 @@ os.mkdir("Release/large/plunger")
 ###############################
 ## Setup normal winder params
 sheet.set("spr_h",  "1.6")
-sheet.set("arb_d",  "2.1")
-sheet.set("hook_d", "0.5")
+sheet.set("arb_d",  "2.125") #Fits M2 dowel + clearance
+sheet.set("hook_d", "0.52")
 sheet.set("body_d", "25.0")
 doc.recompute(None,True,True)
 
@@ -77,15 +79,25 @@ for n in spring1_d:
 for n in bowl1_d:
     sheet.set("barrel_d", n)
     doc.recompute(None,True,True)
-    export_stl("Body003", "Release/normal/barrel-bowl/rs-winder-bowl-"+n+"mm.stl")
+    export_stl("Body003", "Release/normal/bowl-barrel/rs-winder-bowl-"+n+"mm.stl")
+
+## Generate setter type bowl
+doc.Pocket012.setExpression('Length','<<Attach_Hole>>.Length + <<Parameters>>.spr_ex * 1mm')
+doc.Sketch019.setExpression('Constraints[1]', '<<Parameters>>.sethole_d')
+doc.recompute(None,True,True)
+export_stl("Body003", "Release/normal/bowl-setter/rs-setter-bowl-normal.stl")
 
 
 ###############################
 ## Generate large winder     ##
 ###############################
+## Reset project file and spreadsheet
+doc.restore()
+sheet = doc.Spreadsheet002
+
 ## Setup large winder params
-sheet.set("spr_h",  "2.8")
-sheet.set("arb_d",  "3.125")
+sheet.set("spr_h",  "2.6")
+sheet.set("arb_d",  "2.625") #Fits M2.5 dowel + clearance
 sheet.set("hook_d", "0.55")
 sheet.set("body_d", "30.0")
 sheet.set("version_x_offs", "-6.60")
@@ -115,5 +127,11 @@ for n in spring2_d:
 for n in bowl2_d:
     sheet.set("barrel_d", n)
     doc.recompute(None,True,True)
-    export_stl("Body003", "Release/large/barrel-bowl/rs-winder-bowl-"+n+"mm.stl")
+    export_stl("Body003", "Release/large/bowl-barrel/rs-winder-bowl-"+n+"mm.stl")
+
+## Generate setter type bowl
+doc.Pocket012.setExpression('Length','<<Attach_Hole>>.Length + <<Parameters>>.spr_ex * 1mm')
+doc.Sketch019.setExpression('Constraints[1]', '<<Parameters>>.sethole_d')
+doc.recompute(None,True,True)
+export_stl("Body003", "Release/large/bowl-setter/rs-setter-bowl-large.stl")
 
