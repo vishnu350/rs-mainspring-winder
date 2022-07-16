@@ -10,6 +10,11 @@ The RS mainspring winder works very well when constructed correctly, and can win
 **Watch this Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**<br/>
 **WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), for discussion or feedback.**
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/5123344/179362355-92640bc8-f01c-4858-81e5-610a5d544c9d.jpg" alt="drawing" width="40%"/>
+<img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="31%"/>
+</p>
+
 # RS Winder Parts Description
 
 There are five parts to the RS mainspring winder:
