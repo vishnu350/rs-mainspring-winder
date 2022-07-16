@@ -8,7 +8,7 @@ This mainspring winder is designed using FreeCAD to be easily 3D printed with no
 The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
 
 **Watch this Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**<br/>
-**WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), for discussion or feedback.**
+**Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or Github discusion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/5123344/179362355-92640bc8-f01c-4858-81e5-610a5d544c9d.jpg" alt="drawing" width="40%"/>
@@ -40,16 +40,15 @@ Recommended 3D printing options:
 Steps to build your RS mainspring winder:
 1. Use a caliper to measure your mainspring barrel inner and outer diameters. The outer diameter includes the main wheel (gear).
 2. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
-   - Select your winder base part STL file (standard size).
-   - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes for both parts.
-   - Select your setter bowl part STL files. Optionally, you may select a matching barrel bowl as well.
-3. 3D print the four STL files with the recommended 3D print settings, or just get someone help you with that.
-4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)), and use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
-5. If you printed the winder base version with an arbour hole, then install the appropriate dowel pins:
+   - Select your winder base part STL file (either arbour or hole version).
+   - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes.
+   - Select your setter bowl part STL files. Optionally, select a matching barrel bowl part (size based on outer diameter).
+3. 3D print the STL files with the recommended 3D print settings, or just get someone help you with that.
+4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
+5. If you printed the winder base hole version (no arbour rod), then install the appropriate dowel pins:
    - For normal size winder base: 2.0mm diameter (M2) dowel pins, 16mm in length.
    - For large size winder base: 2.5mm diameter (M2.5) dowel pins, 16mm in length.
    - Purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
-6. Clean all parts and then lubricate all contact points appropriately.
 
 # Customizing/Generating the RS winder
 
