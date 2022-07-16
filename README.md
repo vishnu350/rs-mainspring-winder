@@ -17,14 +17,14 @@ The RS mainspring winder works very well when constructed correctly, and can win
 
 # RS Winder Parts Description
 
-There are five parts to the RS mainspring winder:
-- **The housing barrel**. This 3D printed part has a barrel that houses the mainspring and plunger, and the knurling pattern on the top is akin to a rising sun.
-- **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up.
+There are several parts to the RS mainspring winder:
+- **The housing barrel**. This 3D printed part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no real reason.
+- **The winder base**. This 3D printed part is responsible for winding the mainspring by latching onto it with the anchor.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
 - **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)).
-- **The setter bowl**. This 3D printed part helps to extrude the mainspring by tiny amount so that the actual mainspring barrel can be put in place.
-- **The barrel bowl (optional)**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in. This part is optional, the plunging step can still be performed without this if the setter was used correctly.
-- **The arbour (optional)**. Get a dowel pin (or equivalent) with 2mm or 3mm diameter and place this at the center of the winder base. Only for the winder base version with a hole for the arbour.
+- **The setter bowl**. This 3D printed part helps to extrude the mainspring by small amount so that the actual mainspring barrel can be easily fitted in.
+- **The barrel bowl (optional)**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in. This part is optional, the plunging step can still be performed without this.
+- **The arbour (optional)**. Get a dowel pin (or equivalent) with 2mm/2.5 diameter and place it at the center of the winder base. Only needed for the winder base version with a hole for the arbour.
 
 **NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
 
@@ -42,13 +42,13 @@ Steps to build your RS mainspring winder:
 2. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
    - Select your winder base part STL file (standard size).
    - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes for both parts.
-   - Select your setter bowl part STL files. Optionally, you may use a matching barrel bowl as well.
-3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
+   - Select your setter bowl part STL files. Optionally, you may select a matching barrel bowl as well.
+3. 3D print the four STL files with the recommended 3D print settings, or just get someone help you with that.
 4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)), and use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
-5. If you printed the winder base version with an arbour hole, then purchase the appropriate dowel pins:
-   - For normal size winder base: M2 dowel pins, 16mm in length.
-   - For normal size winder base: M2.5 dowel pins, 16mm in length.
-   - Purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html) [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
+5. If you printed the winder base version with an arbour hole, then install the appropriate dowel pins:
+   - For normal size winder base: 2.0mm diameter (M2) dowel pins, 16mm in length.
+   - For large size winder base: 2.5mm diameter (M2.5) dowel pins, 16mm in length.
+   - Purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
 6. Clean all parts and then lubricate all contact points appropriately.
 
 # Customizing/Generating the RS winder
