@@ -77,6 +77,7 @@ To generate the STL files for the various different sizes of all the RS winder p
 - Further tweak design for better quality and ease of use.
 - Store common parameters/dimensions for known movements in a library file, include sizes of all popular movements.
 - Further improve the staple cutting mechanism, or replace it with something better.
+- Explore soldering the staple pin to the dowel pins to create an even better winder base arbour.
 
 # Thanks & How To Contribute
 If you like my work, please consider:
