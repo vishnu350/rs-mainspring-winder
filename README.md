@@ -7,8 +7,8 @@ This mainspring winder is designed using FreeCAD to be easily 3D printed with no
 
 The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
 
-**Watch this Youtube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**<br/>
-**Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or Github discusion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**
+**Watch this YouTube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**<br/>
+**Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or GitHub discussion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/5123344/179362355-92640bc8-f01c-4858-81e5-610a5d544c9d.jpg" alt="drawing" width="40%"/>
@@ -18,7 +18,7 @@ The RS mainspring winder works very well when constructed correctly, and can win
 # RS Winder Parts Description
 
 There are several parts to the RS mainspring winder:
-- **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top.
+- **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no reason.
 - **The winder base**. This part is responsible for winding the mainspring by latching onto it with the anchor.
 - **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
 - **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)).
@@ -58,15 +58,15 @@ Read the wiki instructions [here](https://github.com/vishnu350/rs-mainspring-win
 
 Please head to the wiki for step by step instructions: [Customizing & Generating the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder)
 
-To generate the STL files for the various different sizes of all the RS winder parts, jsut clone this repo and execute the Python FreeCAD script using the following command:<br />
+To generate the STL files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br />
 `freecadcmd generate_stl.py`
 
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
 - Take your time to properly **fashion the stapler pin to the right size**. If it is not correct, it will easily get unhooked while winding or may even cause the winding base arbour to break.
-- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [Youtube video](https://youtu.be/OAfQTk89P3s) for an elegant way to do this.
+- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s) for an elegant way to do this.
 - Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**. Consider using the winder base hole version with dowel pins instead.
-- Double check if the plunger base is **level, round and flat**. If it isnt, work it down with a metal file or sandpaper.
+- Double check if the plunger base is **level, round and flat**. If it is not, then work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
 - When unwinding, be gentle so as to not scratch the mainspring with the anchor.
