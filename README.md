@@ -50,6 +50,10 @@ Steps to build your RS mainspring winder:
    - For large size winder base: 2.5mm diameter (M2.5) dowel pins, 16mm in length.
    - Purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
 
+# Using the RS winder
+
+Read the wiki instructions [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder) or watch a [video](https://youtu.be/OAfQTk89P3s).
+
 # Customizing/Generating the RS winder
 
 Please head to the wiki for step by step instructions: [Customizing & Generating the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder)
@@ -57,24 +61,11 @@ Please head to the wiki for step by step instructions: [Customizing & Generating
 To generate the STL files for the various different sizes of all the RS winder parts, jsut clone this repo and execute the Python FreeCAD script using the following command:<br />
 `freecadcmd generate_stl.py`
 
-**NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
-
-# Using the RS winder
-1. Place the plunger into the housing barrel.
-2. Place the mainspring into the arbour on the winder part.
-3. Use a tweezer to latch the anchor onto the mainspring hole.
-4. Carefully put the housing barrel and winder parts together. Take care **not to wind in reverse** as this will unlatch the anchor.
-5. Wind the mainspring until (both) end tails of the mainspring sticks out. Gently push it in **such that both tails are in the barrel**. Continue to wind a little bit more until it goes in completely and can no longer be seen.
-6. Once done, **unwind** by twisting in the reverse direction until there is **no more backpressure** from the mainspring. **The anchor should naturally unlatch**, allowing you to easily take off the winder base part. If the mainspring is still latched, then gently unwind a little bit more.
-7. Next, place the actual mainspring barrel inside the barrel bowl recess and plug it into the housing barrel.
-8. Place the housing+bowl parts on a level surface, apply some downward force to hold it together, and then press the plunger. All done!
-9. Enjoy the rest of your day knowing that it just cost you $5 and a measly stapler pin to wind up a fancy Swiss mainspring.
-
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
 - Take your time to properly **fashion the stapler pin to the right size**. If it is not correct, it will easily get unhooked while winding or may even cause the winding base arbour to break.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [Youtube video](https://youtu.be/OAfQTk89P3s) for an elegant way to do this.
-- Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**.
+- Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**. Consider using the winder base hole version with dowel pins instead.
 - Double check if the plunger base is **level, round and flat**. If it isnt, work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
