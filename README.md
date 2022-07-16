@@ -15,9 +15,10 @@ The RS mainspring winder works very well when constructed correctly, and can win
 There are five parts to the RS mainspring winder:
 - **The housing barrel**. This 3D printed part has a barrel that houses the mainspring and plunger, and the knurling pattern on the top is akin to a rising sun.
 - **The winder base**. This 3D printed part holds the anchor which latches to the mainspring hole and winds it up.
-- **The barrel bowl**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in.
 - **The plunger**. This 3D printed part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
 - **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)).
+- **The setter bowl**. This 3D printed part helps to extrude the mainspring by tiny amount so that the actual mainspring barrel can be put in place.
+- **The barrel bowl (optional)**. This 3D printed part holds the actual mainspring barrel in place for safely plunging the mainspring back in. This part is optional, the plunging step can still be performed without this if the setter was used correctly.
 - **The arbour (optional)**. Get a dowel pin (or equivalent) with 2mm or 3mm diameter and place this at the center of the winder base. Only for the winder base version with a hole for the arbour.
 
 **NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
@@ -36,25 +37,20 @@ Steps to build your RS mainspring winder:
 2. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
    - Select your winder base part STL file (standard size).
    - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes for both parts.
-   - Select your bowl part STL files. Size is based on the mainspring barrel outer diameter.
-   - Alternatively, you may customize and generate these files yourself (see 'customizing' steps below).
+   - Select your setter bowl part STL files. Optionally, you may use a matching barrel bowl as well.
 3. 3D print the four STL files with the recommended 3D print settings, or just send it to someone on eBay to help you with that.
 4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)), and use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
-5. If you printed the winder base version with an arbour hole, then find an appropriate dowel pin to insert into it (2mm/3mm for normal/large winders respectively).
+5. If you printed the winder base version with an arbour hole, then purchase the appropriate dowel pins:
+   - For normal size winder base: M2 dowel pins, 16mm in length.
+   - For normal size winder base: M2.5 dowel pins, 16mm in length.
+   - Purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html) [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
 6. Clean all parts and then lubricate all contact points appropriately.
 
 # Customizing/Generating the RS winder
 
-Steps to customizing your RS winder:
-1. Download and install [FreeCAD](https://freecadweb.org/downloads.php). It is an amazing piece of free and open-source software.
-2. Download the RS mainspring winder [FreeCAD project file](https://github.com/vishnu350/rs-mainspring-winder/blob/main/rs-winder.FCStd) and open it.
-3. Open up the parameter spreadsheet on the left pane by double clicking on it.
-4. Go through the parameter descriptions, and then tune the values to match your needs. You will need a caliper to measure your mainspring/barrel/etc dimensions.
-5. Make sure a proper font file is selected for *Version_Text* on the housing part. *Ubuntu-B.ttf* is included in the repo.
-6. Recompute the entire design by pressing CTRL+R, and check if the parts look alright.
-7. Click on each part and then export as STL files (winder, housing, bowl, plunger).
+Please head to the wiki for step by step instructions: [Customizing & Generating the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder)
 
-To automatically generate the STL files for the various different sizes of all the RS winder parts, clone the repo and execute the Python FreeCAD script using the following command:<br />
+To generate the STL files for the various different sizes of all the RS winder parts, jsut clone this repo and execute the Python FreeCAD script using the following command:<br />
 `freecadcmd generate_stl.py`
 
 **NOTE:** *Only customize the RS winder if the pre-generated STL files do not fit your needs.*
@@ -83,9 +79,9 @@ To automatically generate the STL files for the various different sizes of all t
 - The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly service.
  
 # Future Updates
-- Split winders to three classes: large (pocket watch), medium (wrist watches), and small (women's wrist watches).
-- Store common parameters/dimensions for known movements in a library file.
 - Further tweak design for better quality and ease of use.
+- Store common parameters/dimensions for known movements in a library file, include sizes of all popular movements.
+- Further improve the staple cutting mechanism, or replace it with something better.
 
 # Thanks & How To Contribute
 If you like my work, please consider:
@@ -93,4 +89,6 @@ If you like my work, please consider:
 - Share your success/failure story on your using the RS winder for unknown mainsprings/barrels.
 - Offering to print or ship experimental 3D printed designs for me.
 
-Thanks to Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
+Credits and thanks to the following folk:
+- Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
+- AndyShap for sharing his setter bowl idea, providing the design files and wiki guides.
