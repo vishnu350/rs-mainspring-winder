@@ -1,5 +1,5 @@
 # Introduction
-This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
+This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1000 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring. Worry not, as we have come to your rescue.
 
