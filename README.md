@@ -21,7 +21,7 @@ There are several parts to the RS mainspring winder:
 - **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no reason.
 - **The winder base**. This part is responsible for winding the mainspring by latching onto it with the anchor.
 - **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)).
+- **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)).
 - **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
 - **The barrel bowl (optional)**. This part holds the actual mainspring barrel in place for safely plunging the mainspring back in. It is optional, the plunging step can still be performed without it.
 - **The arbour (optional)**. Get a dowel pin (or equivalent) with 2mm/2.5 diameter and place it at the center of the winder base. Only needed for the winder base hole version.
@@ -44,7 +44,7 @@ Steps to build your RS mainspring winder:
    - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes.
    - Select your setter bowl part STL files. Optionally, select a matching barrel bowl part (size based on outer diameter).
 3. 3D print the STL files with the recommended 3D print settings, or just get someone help you with that.
-4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
+4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
 5. If you printed the winder base hole version (no arbour rod), then install the appropriate dowel pins:
    - For normal size winder base: 2.0mm diameter (M2) dowel pins, 16mm in length.
    - For large size winder base: 2.5mm diameter (M2.5) dowel pins, 16mm in length.
@@ -52,7 +52,7 @@ Steps to build your RS mainspring winder:
 
 # Using the RS winder
 
-Read the wiki instructions [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder) or watch a [video](https://youtu.be/OAfQTk89P3s).
+Read the wiki instructions [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder) or watch a [YouTube video](https://youtu.be/OAfQTk89P3s).
 
 # Customizing/Generating the RS winder
 
