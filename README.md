@@ -21,14 +21,15 @@ The RS mainspring winder works very well when constructed correctly, and can win
 
 There are several parts to the RS mainspring winder:
 - **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no reason.
-- **The winder base**. This part is responsible for winding the mainspring by latching onto it with the anchor.
+- **The winder base**. This part is responsible for winding the mainspring by latching onto it with the arbour hook.
 - **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The anchor**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)).
+- **The arbour hook**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)), use the staple jig part for best results. Also called **anchor**.
 - **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
 - **The barrel bowl (optional)**. This part holds the actual mainspring barrel in place for safely plunging the mainspring back in. It is optional, the plunging step can still be performed without it.
-- **The arbour (optional)**. Get a dowel pin (or equivalent) with 2mm/2.5 diameter and place it at the center of the winder base. Only needed for the winder base hole version.
+- **The arbour rod (optional)**. Get a dowel pin (or equivalent) with 2mm/2.5 diameter and place it at the center of the winder base. Only needed for the winder base hole version.
+- **The staple jig (optional)**. Use this part to easily cut the staple pins to form the arbour hook, watch video [here](https://youtu.be/EZvd_MKBOUQ).
 
-**NOTE:** *The anchor is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
+**NOTE:** *The arbour hook is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
 
 # Building the RS winder
 
@@ -46,7 +47,7 @@ Steps to build your RS mainspring winder:
    - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes.
    - Select your setter bowl part STL files. Optionally, select a matching barrel bowl part (size based on outer diameter).
 3. 3D print the STL files with the recommended 3D print settings, or just get someone help you with that.
-4. Fashion a stapler pin into an anchor with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
+4. Fashion a stapler pin into an arbour hook with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
 5. If you printed the winder base hole version (no arbour rod), then install the appropriate dowel pins:
    - For normal size winder base: 2.0mm diameter (M2) dowel pins, 16mm in length.
    - For large size winder base: 2.5mm diameter (M2.5) dowel pins, 16mm in length.
@@ -71,7 +72,7 @@ To generate the STL files for the various different sizes of all the RS winder p
 - Double check if the plunger base is **level, round and flat**. If it is not, then work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
-- When unwinding, be gentle so as to not scratch the mainspring with the anchor.
+- When unwinding, be gentle so as to not scratch the mainspring with the arbour hook.
 - It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
 - The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly service.
  
