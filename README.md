@@ -76,7 +76,7 @@ To generate the STL files for the various different sizes of all the RS winder p
 - The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly service.
  
 # Future Updates
-- Further tweak design for better quality and ease of use.
+- Further improve the design for better quality and ease of use.
 - Store common parameters/dimensions for known movements in a library file, include sizes of all popular movements.
 - Further improve the staple jig design to better accomodate smaller sized mainspring winders.
 - Explore hollow dowel pin integration with staple pin to create an even better winder base arbour.
@@ -85,9 +85,9 @@ To generate the STL files for the various different sizes of all the RS winder p
 
 # Thanks & How To Contribute
 If you like my work, please consider:
-- **Send me old/broken mainsprings and barrels** for experimenting, it helps me improve this project!
+- **Sending me old/broken mainsprings and barrels** for experimenting, it helps me improve this project!
 - Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
-- Share your success/failure story on your using the RS winder for unknown mainsprings/barrels.
+- Sharing your success/failure story on your using the RS winder for unknown mainsprings/barrels.
 - Offering to print or ship experimental 3D printed designs for me.
 
 Credits and thanks to the following folk:
