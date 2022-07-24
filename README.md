@@ -3,11 +3,13 @@ This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspr
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring. Worry not, as we have come to your rescue.
 
-This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will approximately cost $5/set by most 3D print service providers. The design is parameterized, allowing you to dynamically change the size/dimensions of the winder and the entire design will be recalculated accordingly.
+This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will approximately cost $5/set by most 3D print service providers.  Alternatively, you may choose to just purchase a prebuilt kit from Ebay seller **AndyShap2** [here](https://www.ebay.com/itm/125428348675).
+
+The winder design dimensions are parameterized. This allows us to dynamically change any size/dimensions parameter, and the entire design will be recalculated accordingly for proper functionality. This is how the generator script is able to build a complete set of winders with different sizes each (7mm to 18mm) from just a single design file.
 
 The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
 
-**Watch this YouTube video [here](https://youtu.be/OAfQTk89P3s) to better understand the RS winder parts and how it works.**<br/>
+**Watch this YouTube video [here](https://youtu.be/EZvd_MKBOUQ) or [here](https://youtu.be/OAfQTk89P3s) (older) to better understand the RS winder parts and how it works.**<br/>
 **Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or GitHub discussion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**
 
 <p align="center">
@@ -52,7 +54,7 @@ Steps to build your RS mainspring winder:
 
 # Using the RS winder
 
-Read the wiki instructions [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder) or watch a [YouTube video](https://youtu.be/OAfQTk89P3s).
+Read the wiki instructions [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder) or watch a [YouTube video](https://youtu.be/EZvd_MKBOUQ).
 
 # Customizing/Generating the RS winder
 
@@ -81,6 +83,7 @@ To generate the STL files for the various different sizes of all the RS winder p
 
 # Thanks & How To Contribute
 If you like my work, please consider:
+- *Send me old/broken mainsprings and barrels* to experiment with, it will help me to improve the project!
 - Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
 - Share your success/failure story on your using the RS winder for unknown mainsprings/barrels.
 - Offering to print or ship experimental 3D printed designs for me.
