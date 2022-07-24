@@ -47,7 +47,7 @@ Steps to build your RS mainspring winder:
    - Select your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes.
    - Select your setter bowl part STL files. Optionally, select a matching barrel bowl part (size based on outer diameter).
 3. 3D print the STL files with the recommended 3D print settings, or just get someone help you with that.
-4. Fashion a stapler pin into an arbour hook with a pair of pliers ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
+4. Fashion a stapler pin into an arbour hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base) or watch video [here](https://youtu.be/EZvd_MKBOUQ)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
 5. If you printed the winder base hole version (no arbour rod), then install the appropriate dowel pins:
    - For normal size winder base: 2.0mm diameter (M2) dowel pins, 16mm in length.
    - For large size winder base: 2.5mm diameter (M2.5) dowel pins, 16mm in length.
@@ -67,7 +67,7 @@ To generate the STL files for the various different sizes of all the RS winder p
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
 - Take your time to properly **fashion the stapler pin to the right size**. If it is not correct, it will easily get unhooked while winding or may even cause the winding base arbour to break.
-- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s) for an elegant way to do this.
+- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
 - Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**. Consider using the winder base hole version with dowel pins instead.
 - Double check if the plunger base is **level, round and flat**. If it is not, then work it down with a metal file or sandpaper.
 - Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
