@@ -38,7 +38,7 @@ Recommended 3D printing options:
 - **Filling: 100%** (parts may crumble under stress if lower).
 - **Layer thickness: 200 µm** or better.
 - **Printer: Any decent 3D printer**, as long as you understand your printer settings well enough.
-- **Color: Any**, best if all parts are the same color for equal tolerances between prints.
+- **Color: Any**, best if all parts are the same color which results in equal dimensional tolerances between prints.
 
 Steps to build your RS mainspring winder:
 1. Use a caliper to measure your mainspring barrel inner and outer diameters. The outer diameter includes the main wheel (gear).
@@ -51,7 +51,7 @@ Steps to build your RS mainspring winder:
 5. If you printed the winder base hole version (no arbour rod), then install the appropriate dowel pins:
    - For normal size winder base: 2.0mm diameter (M2) dowel pins, 16mm in length.
    - For large size winder base: 2.5mm diameter (M2.5) dowel pins, 16mm in length.
-   - Purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
+   - Dowel pin purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
 
 # Using the RS winder
 
@@ -66,29 +66,30 @@ To generate the STL files for the various different sizes of all the RS winder p
 
 # Warnings and Tips
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. Only use this on your beloved grandfather's vintage Rolex if you are confident in doing so.
-- Take your time to properly **fashion the stapler pin to the right size**. If it is not correct, it will easily get unhooked while winding or may even cause the winding base arbour to break.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
-- Be very careful with the winder base part! Although it may appear sturdy, **dropping it will most likely break the arbour**. Consider using the winder base hole version with dowel pins instead.
+- If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
+- Be very gentle when unwinding.
+- The winder base part with the 3D printed arbour rod will break very easily if dropped or mishandled during shipping. Consider using the winder base hole version with dowel pins instead.
 - Double check if the plunger base is **level, round and flat**. If it is not, then work it down with a metal file or sandpaper.
-- Make sure to **apply downward force** while plunging the mainspring back in, otherwise it may fail to pop back into the barrel.
 - It is good to **lubricate** the housing barrel walls and mainspring before winding it in. This reduces winding stress and also makes it easier to plunge later on.
-- When unwinding, be gentle so as to not scratch the mainspring with the arbour hook.
 - It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
 - The barrel bowl part can also be used to snap the barrel lid back on, as well as holding it during assembly/disassembly service.
  
 # Future Updates
 - Further tweak design for better quality and ease of use.
 - Store common parameters/dimensions for known movements in a library file, include sizes of all popular movements.
-- Further improve the staple cutting mechanism, or replace it with something better.
-- Explore soldering the staple pin to the dowel pins to create an even better winder base arbour.
+- Further improve the staple jig design to better accomodate smaller sized mainspring winders.
+- Explore hollow dowel pin integration with staple pin to create an even better winder base arbour.
+- The fully 3D printed winder base part will be retired soon, move to steel dowel pin version for best results.
+- The barrel bowl part will be retired soon in favor of the setter bowl.
 
 # Thanks & How To Contribute
 If you like my work, please consider:
-- *Send me old/broken mainsprings and barrels* to experiment with, it will help me to improve the project!
+- **Send me old/broken mainsprings and barrels** for experimenting, it helps me improve this project!
 - Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
 - Share your success/failure story on your using the RS winder for unknown mainsprings/barrels.
 - Offering to print or ship experimental 3D printed designs for me.
 
 Credits and thanks to the following folk:
 - Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
-- AndyShap for sharing his setter bowl idea, providing the design files and wiki guides.
+- AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
