@@ -27,7 +27,7 @@ There are several parts to the RS mainspring winder:
 - **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
 - **The barrel bowl (optional)**. This part holds the actual mainspring barrel in place for safely plunging the mainspring back in. It is optional, the plunging step can still be performed without it.
 - **The arbour rod (optional)**. Get a dowel pin (or equivalent) with 2mm/2.5 diameter and place it at the center of the winder base. Only needed for the winder base hole version.
-- **The staple jig (optional)**. Use this part to easily cut the staple pins to form the arbour hook, watch video [here](https://youtu.be/EZvd_MKBOUQ).
+- **The staple jig (optional)**. Use this part to easily cut the staple pins to form the arbour hook, watch instructional video [here](https://youtu.be/EZvd_MKBOUQ).
 
 **NOTE:** *The arbour hook is too small to be 3D printed with enough strength/accuracy, hence a metal part is **required** for the RS winder to work. A stapler pin is an everyday item accessible to everyone, and is perfect for this task.*
 
