@@ -3,9 +3,9 @@ This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspr
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring. Worry not, as we have come to your rescue.
 
-This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will approximately cost $5/set by most 3D print service providers.  Alternatively, you may choose to just purchase a prebuilt kit from Ebay seller **AndyShap2** [here](https://www.ebay.com/itm/125428348675).
+This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will approximately cost $5/set by most 3D print service providers.  Alternatively, you may choose to just purchase a prebuilt kit from eBay seller **AndyShap2** [here](https://www.ebay.com/itm/125428348675).
 
-The winder design dimensions are parameterized. This allows us to dynamically change any size/dimensions parameter, and the entire design will be recalculated accordingly for proper functionality. This is how the generator script is able to build a complete set of winders with different sizes each (7mm to 18mm) from just a single design file.
+The winder design dimensions are parameterized. This allows us to dynamically change any size/dimensions parameter, and FreeCAD will recalculate the entire design accordingly for proper functionality. This is how the generator script is able to build a complete set of winders with different sizes each (7mm to 18mm) from just a single design file.
 
 The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
 
@@ -78,7 +78,7 @@ To generate the STL files for the various different sizes of all the RS winder p
 # Future Updates
 - Further improve the design for better quality and ease of use.
 - Store common parameters/dimensions for known movements in a library file, include sizes of all popular movements.
-- Further improve the staple jig design to better accomodate smaller sized mainspring winders.
+- Further improve the staple jig design to better accommodate smaller sized mainspring winders.
 - Explore hollow dowel pin integration with staple pin to create an even better winder base arbour.
 - The fully 3D printed winder base part will be retired soon, move to steel dowel pin version for best results.
 - The barrel bowl part will be retired soon in favor of the setter bowl.
