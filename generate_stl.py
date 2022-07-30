@@ -16,9 +16,7 @@ def export_stl(body_obj,filename):
 ## Large range  = h=2.8, d=12-18
 ## Normal range = h=1.6, d=7-12
 spring1_d = ["7.0", "7.5", "8.0",  "8.5",  "9.0",  "9.5",  "10.0", "10.5", "11.0", "11.5", "12.0", "12.5"]
-bowl1_d   = ["9.0", "9.5", "10.0", "10.5", "11.0", "11.5", "11.8", "12.0", "12.3", "12.5", "13.0", "13.5", "14.0", "14.5"]
 spring2_d = ["13.0",  "13.5",  "14.0",  "14.5", "15.0", "15.5", "16.0", "16.5", "17.0", "17.5", "18.0", "18.5"]
-bowl2_d   = ["15.0", "15.5", "16.0", "16.5", "17.0", "17.3", "17.5", "18.0", "18.5", "19.0", "19.5", "20.0", "20.5"]
 
 ## Open project file and spreadsheet
 FreeCAD.openDocument("rs-winder.FCStd")
@@ -39,6 +37,7 @@ os.mkdir("Release/large/housing-barrel")
 os.mkdir("Release/large/bowl-barrel")
 os.mkdir("Release/large/bowl-setter")
 os.mkdir("Release/large/plunger")
+os.mkdir("Release/staplejig")
 
 
 ###############################
@@ -75,17 +74,7 @@ for n in spring1_d:
     export_stl("Body", "Release/normal/plunger/rs-winder-plunger-"+n+"mm.stl")
     export_stl("Body001", "Release/normal/housing-barrel/rs-winder-housing-"+n+"mm.stl")
 
-## Generate bowls (based actual barrel diameter)
-for n in bowl1_d:
-    sheet.set("barrel_d", n)
-    doc.recompute(None,True,True)
-    export_stl("Body003", "Release/normal/bowl-barrel/rs-winder-bowl-"+n+"mm.stl")
-
 ## Generate setter type bowl
-doc.Pocket013.Reversed = 0  ## Remove arbor hole from bowl
-doc.Pocket012.setExpression('Length','<<Attach_Hole>>.Length + <<Parameters>>.spr_ex * 1mm') ## Setter hole depth
-doc.Sketch019.setExpression('Constraints[1]', '<<Parameters>>.sethole_d')                    ## Setter hole diameter
-doc.recompute(None,True,True)
 export_stl("Body003", "Release/normal/bowl-setter/rs-setter-bowl-normal.stl")
 
 
@@ -123,16 +112,6 @@ for n in spring2_d:
     export_stl("Body", "Release/large/plunger/rs-winder-plunger-"+n+"mm.stl")
     export_stl("Body001", "Release/large/housing-barrel/rs-winder-housing-"+n+"mm.stl")
 
-## Generate bowls (based actual barrel diameter)
-for n in bowl2_d:
-    sheet.set("barrel_d", n)
-    doc.recompute(None,True,True)
-    export_stl("Body003", "Release/large/bowl-barrel/rs-winder-bowl-"+n+"mm.stl")
-
 ## Generate setter type bowl
-doc.Pocket013.Reversed = 0  ## Remove arbor hole from bowl
-doc.Pocket012.setExpression('Length','<<Attach_Hole>>.Length + <<Parameters>>.spr_ex * 1mm') ## Setter hole depth
-doc.Sketch019.setExpression('Constraints[1]', '<<Parameters>>.sethole_d')                    ## Setter hole diameter
-doc.recompute(None,True,True)
 export_stl("Body003", "Release/large/bowl-setter/rs-setter-bowl-large.stl")
 
