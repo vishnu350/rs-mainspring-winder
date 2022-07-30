@@ -29,12 +29,10 @@ os.mkdir("Release/normal")
 os.mkdir("Release/large")
 os.mkdir("Release/normal/winder-base")
 os.mkdir("Release/normal/housing-barrel")
-os.mkdir("Release/normal/bowl-barrel")
 os.mkdir("Release/normal/bowl-setter")
 os.mkdir("Release/normal/plunger")
 os.mkdir("Release/large/winder-base")
 os.mkdir("Release/large/housing-barrel")
-os.mkdir("Release/large/bowl-barrel")
 os.mkdir("Release/large/bowl-setter")
 os.mkdir("Release/large/plunger")
 os.mkdir("Release/staplejig")
@@ -45,6 +43,7 @@ os.mkdir("Release/staplejig")
 ###############################
 ## Setup normal winder params
 sheet.set("spr_h",  "1.6")   ## Set max spring height
+sheet.set("spr_ex", "0.33")  ## Set setter bowl spring extrude depth
 sheet.set("arb_d",  "2.125") ## Fits M2 dowel + clearance
 sheet.set("hook_d", "0.52")  ## Set hook hole diameter
 sheet.set("body_d", "25.0")  ## Set winder body diameter
@@ -87,6 +86,7 @@ sheet = doc.Spreadsheet002
 
 ## Setup large winder params
 sheet.set("spr_h",  "2.6")   ## Set max spring height
+sheet.set("spr_ex", "0.35")  ## Set setter bowl spring extrude depth
 sheet.set("arb_d",  "2.625") ## Fits M2.5 dowel + clearance
 sheet.set("hook_d", "0.55")  ## Set hook hole diameter
 sheet.set("body_d", "30.0")  ## Set winder body diameter
