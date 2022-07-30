@@ -44,22 +44,18 @@ os.mkdir("Release/staplejig")
 ## Setup normal winder params
 sheet.set("spr_h",  "1.6")   ## Set max spring height
 sheet.set("spr_ex", "0.33")  ## Set setter bowl spring extrude depth
-sheet.set("arb_d",  "2.125") ## Fits M2 dowel + clearance
+sheet.set("arb_d",  "1.625") ## Fits M1.5 dowel + clearance
 sheet.set("hook_d", "0.52")  ## Set hook hole diameter
 sheet.set("body_d", "25.0")  ## Set winder body diameter
 doc.recompute(None,True,True)
 
-## Generate winder base (with arbor)
-doc.getObject('Body002').Tip=doc.getObject('Pocket005')
-doc.getObject('Pocket005').Reversed = 0
-doc.recompute(None,True,True)
-export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-arbor.stl")
+## Generate winder base (M1.5)
+export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-1.5mm.stl")
 
-## Generate winder base (with arbor hole)
-doc.getObject('Body002').Tip=doc.getObject('Pocket015')
-doc.getObject('Pocket005').Reversed = 1
+## Generate winder base (M2)
+sheet.set("arb_d",  "2.125") ## Fits M2.0 dowel + clearance
 doc.recompute(None,True,True)
-export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-hole.stl")
+export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-2.0mm.stl")
 
 ## Generate housing/plunger (based on spring diameter)
 for n in spring1_d:
@@ -73,7 +69,7 @@ for n in spring1_d:
     export_stl("Body", "Release/normal/plunger/rs-winder-plunger-"+n+"mm.stl")
     export_stl("Body001", "Release/normal/housing-barrel/rs-winder-housing-"+n+"mm.stl")
 
-## Generate setter type bowl
+## Generate setter bowl
 export_stl("Body003", "Release/normal/bowl-setter/rs-setter-bowl-normal.stl")
 
 
@@ -92,17 +88,13 @@ sheet.set("hook_d", "0.55")  ## Set hook hole diameter
 sheet.set("body_d", "30.0")  ## Set winder body diameter
 doc.recompute(None,True,True)
 
-## Generate winder base (with arbor)
-doc.getObject('Body002').Tip=doc.getObject('Pocket005')
-doc.getObject('Pocket005').Reversed = 0
-doc.recompute(None,True,True)
-export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-arbor.stl")
+## Generate winder base (M2.5)
+export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-2.5mm.stl")
 
-## Generate winder base (with arbor hole)
-doc.getObject('Body002').Tip=doc.getObject('Pocket015')
-doc.getObject('Pocket005').Reversed = 1
+## Generate winder base (M3)
+sheet.set("arb_d",  "3.125") ## Fits M3.0 dowel + clearance
 doc.recompute(None,True,True)
-export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-hole.stl")
+export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-3.0mm.stl")
 
 ## Generate housing/plunger (based on spring diameter)
 for n in spring2_d:
@@ -112,6 +104,6 @@ for n in spring2_d:
     export_stl("Body", "Release/large/plunger/rs-winder-plunger-"+n+"mm.stl")
     export_stl("Body001", "Release/large/housing-barrel/rs-winder-housing-"+n+"mm.stl")
 
-## Generate setter type bowl
+## Generate setter bowl
 export_stl("Body003", "Release/large/bowl-setter/rs-setter-bowl-large.stl")
 
