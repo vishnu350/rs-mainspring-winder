@@ -50,7 +50,9 @@ Steps to build your RS mainspring winder:
    - Dowel pin purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
 
 # Using the RS winder
-Please go to the wiki for instructions: [Using the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder). Or watch a [YouTube video](https://youtu.be/EZvd_MKBOUQ).
+Please go to the wiki for instructions: [Using the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder).
+
+Or watch a [YouTube video](https://youtu.be/EZvd_MKBOUQ).
 
 # Customizing/Generating the RS winder
 Please go to the wiki for instructions: [Customizing & Generating the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder).
@@ -59,7 +61,7 @@ To generate the STL files for the various different sizes of all the RS winder p
 
 # Warnings and Advice
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. See the [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues) before deciding if this is for you, otherwise please consider getting a professional mainspring winder set.
-- While the RS mainspring winder works great for many users, it still requires you to be resourceful and competent in basic watchmaking skills.
+- While this winder works great for many users, it still requires you to be resourceful and competent in basic watchmaking skills.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
 - Be very careful when unwinding, do it slowly.
@@ -67,7 +69,9 @@ To generate the STL files for the various different sizes of all the RS winder p
 - It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
 
 # Future Updates
-Always room for improvement for better quality and ease of use. For known issues, see [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues).
+Always room for improvement for better quality and ease of use.
+
+For known issues, see [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues).
 
 # Thanks & How To Contribute
 If you like my work, please consider:
@@ -77,5 +81,5 @@ If you like my work, please consider:
 - Offering to print or ship experimental 3D printed designs for me.
 
 Credits and thanks to the following folk:
-- Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused for this work.
+- Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused.
 - AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
