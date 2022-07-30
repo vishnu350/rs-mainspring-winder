@@ -66,11 +66,11 @@ export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-hole.stl
 ## Generate housing/plunger (based on spring diameter)
 for n in spring1_d:
     sheet.set("spr_d", n)
-    sheet.set("version", n+"MM")
+    sheet.set("version", "M"+n)
     if len(n) < 4:
-        sheet.set("version_x_offs", "-5.50")
+        sheet.set("version_x_offs", "-4.40")
     else:
-        sheet.set("version_x_offs", "-6.60")
+        sheet.set("version_x_offs", "-5.50")
     doc.recompute(None,True,True)
     export_stl("Body", "Release/normal/plunger/rs-winder-plunger-"+n+"mm.stl")
     export_stl("Body001", "Release/normal/housing-barrel/rs-winder-housing-"+n+"mm.stl")
@@ -101,7 +101,6 @@ sheet.set("spr_h",  "2.6")   ## Set max spring height
 sheet.set("arb_d",  "2.625") ## Fits M2.5 dowel + clearance
 sheet.set("hook_d", "0.55")  ## Set hook hole diameter
 sheet.set("body_d", "30.0")  ## Set winder body diameter
-sheet.set("version_x_offs", "-6.60")
 doc.recompute(None,True,True)
 
 ## Generate winder base (with arbor)
@@ -119,7 +118,7 @@ export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-hole.stl")
 ## Generate housing/plunger (based on spring diameter)
 for n in spring2_d:
     sheet.set("spr_d", n)
-    sheet.set("version", n+"MM")
+    sheet.set("version", "M"+n)
     doc.recompute(None,True,True)
     export_stl("Body", "Release/large/plunger/rs-winder-plunger-"+n+"mm.stl")
     export_stl("Body001", "Release/large/housing-barrel/rs-winder-housing-"+n+"mm.stl")
