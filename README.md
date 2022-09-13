@@ -41,7 +41,7 @@ Steps to build your RS mainspring winder:
 1. Use a caliper to measure your mainspring barrel inner diameter and the mainspring arbour diameter.
 2. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
    - Print your winder base part STL file. Choose from 1.5-3.0mm sizes, whichever matches your mainspring arbour the best.
-   - Print your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes.
+   - Print your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes. In-depth winder size selection guide [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring).
    - Print your setter bowl part STL file, this part should universally work with all housing barrels.
 3. Fashion a stapler pin into an arbour hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base) or watch video [here](https://youtu.be/na0XtIDea9I)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
 4. Install the appropriate dowel pin for your winder base part:
@@ -62,10 +62,10 @@ To generate the STL files for the various different sizes of all the RS winder p
 # Warnings and Advice
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. See the [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues) before deciding if this is for you, otherwise please consider getting a professional mainspring winder set.
 - While this winder works great for many users, it still requires you to be resourceful and competent in basic watchmaking skills.
+- Refer to the wiki for [help with winder size selection](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), if you chose the wrong size **you WILL damage your mainspring**.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
 - Be very careful when unwinding, do it slowly.
-- Double check if the plunger base is **level, round and flat**. If it is not, then work it down with a metal file or sandpaper.
 - It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
 
 # Future Updates
