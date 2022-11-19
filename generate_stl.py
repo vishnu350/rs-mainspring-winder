@@ -4,6 +4,7 @@ sys.path.append(FREECADPATH)
 from collections import defaultdict
 import FreeCAD
 import Mesh
+import shutil
 import os
 
 def export_stl(body_obj,filename):
@@ -36,6 +37,7 @@ os.mkdir("Release/large/housing-barrel")
 os.mkdir("Release/large/bowl-setter")
 os.mkdir("Release/large/plunger")
 os.mkdir("Release/staplejig")
+shutil.copyfile("misc/staplejig.stl", "Release/staplejig/staplejig.stl")
 
 
 ###############################
