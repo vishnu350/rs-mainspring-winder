@@ -40,9 +40,9 @@ Recommended 3D printing options:
 Steps to build your RS mainspring winder:
 1. Use a caliper to measure your mainspring barrel inner diameter and the mainspring arbour diameter.
 2. Download the latest rs-winder-vXXX.zip from the [release section](https://github.com/vishnu350/rs-mainspring-winder/releases).
-   - Print your winder base part STL file. Choose from 1.5-3.0mm sizes, whichever matches your mainspring arbour the best.
-   - Print your housing barrel and plunger part STL files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes. In-depth winder size selection guide [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring).
-   - Print your setter bowl part STL file, this part should universally work with all housing barrels.
+   - Print your winder base part STL/3MF file. Choose from 1.5-3.0mm sizes, whichever matches your mainspring arbour the best.
+   - Print your housing barrel and plunger part STL/3MF files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes. In-depth winder size selection guide [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring).
+   - Print your setter bowl part STL/3MF file, this part should universally work with all housing barrels.
 3. Fashion a stapler pin into an arbour hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base) or watch video [here](https://youtu.be/na0XtIDea9I)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
 4. Install the appropriate dowel pin for your winder base part:
    - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 16mm in length.
@@ -57,7 +57,7 @@ Or watch a [YouTube video](https://youtu.be/EZvd_MKBOUQ).
 # Customizing/Generating the RS winder
 Please go to the wiki for instructions: [Customizing & Generating the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder).
 
-To generate the STL files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br/>`freecadcmd generate_stl.py`
+To generate the STL/3MF files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br/>`freecadcmd generate_stl.py`
 
 # Warnings and Advice
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. See the [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues) before deciding if this is for you, otherwise please consider getting a professional mainspring winder set.
