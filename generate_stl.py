@@ -46,7 +46,7 @@ shutil.copyfile("misc/staplejig.stl", "Release/staplejig/staplejig.stl")
 ###############################
 ## Setup normal winder params
 sheet.set("spr_h",  "1.6")   ## Set max spring height
-sheet.set("spr_ex", "0.60")  ## Set setter bowl spring extrude depth
+sheet.set("spr_ex", "0.65")  ## Set setter bowl spring extrude depth
 sheet.set("arb_d",  "1.625") ## Fits M1.5 dowel + clearance
 sheet.set("hook_d", "0.52")  ## Set hook hole diameter
 sheet.set("body_d", "25.0")  ## Set winder body diameter
@@ -65,9 +65,9 @@ for n in spring1_d:
     sheet.set("spr_d", n)
     sheet.set("version", "M"+n)
     if len(n) < 4:
-        sheet.set("version_x_offs", "-4.40")
+        sheet.set("version_x_offs", "-5.40")
     else:
-        sheet.set("version_x_offs", "-5.50")
+        sheet.set("version_x_offs", "-6.50")
     doc.recompute(None,True,True)
     export_mesh("Body", "Release/normal/plunger/rs-winder-plunger-"+n+"mm")
     export_mesh("Body001", "Release/normal/housing-barrel/rs-winder-housing-"+n+"mm")
@@ -85,7 +85,7 @@ sheet = doc.Spreadsheet002
 
 ## Setup large winder params
 sheet.set("spr_h",  "2.6")   ## Set max spring height
-sheet.set("spr_ex", "0.70")  ## Set setter bowl spring extrude depth
+sheet.set("spr_ex", "0.75")  ## Set setter bowl spring extrude depth
 sheet.set("arb_d",  "2.625") ## Fits M2.5 dowel + clearance
 sheet.set("hook_d", "0.55")  ## Set hook hole diameter
 sheet.set("body_d", "30.0")  ## Set winder body diameter
