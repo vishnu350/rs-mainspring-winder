@@ -7,10 +7,11 @@ import Mesh
 import shutil
 import os
 
-def export_stl(body_obj,filename):
+def export_mesh(body_obj,filename):
     __objs__=[]
     __objs__.append(FreeCAD.getDocument("rs_winder").getObject(body_obj))
-    Mesh.export(__objs__,filename)
+    Mesh.export(__objs__,filename+".stl")
+    Mesh.export(__objs__,filename+".3mf")
     del __objs__
 
 ## List of sizes to generate
@@ -52,12 +53,12 @@ sheet.set("body_d", "25.0")  ## Set winder body diameter
 doc.recompute(None,True,True)
 
 ## Generate winder base (M1.5)
-export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-1.5mm.stl")
+export_mesh("Body002", "Release/normal/winder-base/rs-winder-base-normal-1.5mm")
 
 ## Generate winder base (M2)
 sheet.set("arb_d",  "2.125") ## Fits M2.0 dowel + clearance
 doc.recompute(None,True,True)
-export_stl("Body002", "Release/normal/winder-base/rs-winder-base-normal-2.0mm.stl")
+export_mesh("Body002", "Release/normal/winder-base/rs-winder-base-normal-2.0mm")
 
 ## Generate housing/plunger (based on spring diameter)
 for n in spring1_d:
@@ -68,11 +69,11 @@ for n in spring1_d:
     else:
         sheet.set("version_x_offs", "-5.50")
     doc.recompute(None,True,True)
-    export_stl("Body", "Release/normal/plunger/rs-winder-plunger-"+n+"mm.stl")
-    export_stl("Body001", "Release/normal/housing-barrel/rs-winder-housing-"+n+"mm.stl")
+    export_mesh("Body", "Release/normal/plunger/rs-winder-plunger-"+n+"mm")
+    export_mesh("Body001", "Release/normal/housing-barrel/rs-winder-housing-"+n+"mm")
 
 ## Generate setter bowl
-export_stl("Body003", "Release/normal/bowl-setter/rs-setter-bowl-normal.stl")
+export_mesh("Body003", "Release/normal/bowl-setter/rs-setter-bowl-normal")
 
 
 ###############################
@@ -91,21 +92,21 @@ sheet.set("body_d", "30.0")  ## Set winder body diameter
 doc.recompute(None,True,True)
 
 ## Generate winder base (M2.5)
-export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-2.5mm.stl")
+export_mesh("Body002", "Release/large/winder-base/rs-winder-base-large-2.5mm")
 
 ## Generate winder base (M3)
 sheet.set("arb_d",  "3.125") ## Fits M3.0 dowel + clearance
 doc.recompute(None,True,True)
-export_stl("Body002", "Release/large/winder-base/rs-winder-base-large-3.0mm.stl")
+export_mesh("Body002", "Release/large/winder-base/rs-winder-base-large-3.0mm")
 
 ## Generate housing/plunger (based on spring diameter)
 for n in spring2_d:
     sheet.set("spr_d", n)
     sheet.set("version", "M"+n)
     doc.recompute(None,True,True)
-    export_stl("Body", "Release/large/plunger/rs-winder-plunger-"+n+"mm.stl")
-    export_stl("Body001", "Release/large/housing-barrel/rs-winder-housing-"+n+"mm.stl")
+    export_mesh("Body", "Release/large/plunger/rs-winder-plunger-"+n+"mm")
+    export_mesh("Body001", "Release/large/housing-barrel/rs-winder-housing-"+n+"mm")
 
 ## Generate setter bowl
-export_stl("Body003", "Release/large/bowl-setter/rs-setter-bowl-large.stl")
+export_mesh("Body003", "Release/large/bowl-setter/rs-setter-bowl-large")
 
