@@ -1,9 +1,9 @@
 # Introduction
 This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
 
-Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring. Worry not, as we have come to your rescue.
+Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring.
 
-This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will cost $10 for a single set (approximately) by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from eBay seller **AndyShap2** [here](https://www.ebay.com/itm/125428348675).
+This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will cost $10 for a single set (approximately) by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from eBay seller **AndyShap2 [here](https://www.ebay.com/itm/125428348675)** (single set) or **[here](https://www.ebay.com/itm/125578735361?hash=item1d3d136f01:g:w1gAAOSwDgRjWxwW)** (complete set).
 
 The winder design dimensions are parameterized. This allows us to dynamically change any size/dimensions parameter, and FreeCAD will recalculate the entire design accordingly for proper functionality. This is how the generator script is able to build a complete set of winders with different sizes each (7mm to 18.5mm) from just a single design file.
 
@@ -31,11 +31,12 @@ There are several parts to the RS mainspring winder:
 
 # Building the RS winder
 Recommended 3D printing options:
-- **Material: PLA** (best for high accuracy prints). Avoid overly cheap or low quality materials.
-- **Filling: 100%** (parts may crumble under stress if lower).
-- **Layer thickness: 200 µm** or better.
-- **Printer: Any decent 3D printer**, as long as you understand your printer settings well enough.
-- **Color: Any**, best if all parts are the same color which results in equal dimensional tolerances between prints.
+- **Material: PLA or PLA+** (best for high accuracy prints).
+- **Infill: 20% or more** (parts may crumble under stress if lower).
+- **Layer thickness: 100 µm** or better.
+- **Color: Any**, go with white if unsure, best if all parts are the same color for equal dimensional tolerances between prints.
+- **Printer: Any well calibrated 3D printer**, it is important that the print job is done with high accuracy instead of speed.
+- **Placement: Widest flat surface should face downwards**, so the printer will not struggle with the job.
 
 Steps to build your RS mainspring winder:
 1. Use a caliper to measure your mainspring barrel inner diameter and the mainspring arbour diameter.
@@ -81,5 +82,5 @@ If you like my work, please consider:
 - Offering to print or ship experimental 3D printed designs for me.
 
 Credits and thanks to the following folk:
-- Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused.
 - AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
+- Fratink for coming up with the original design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. The same free Creative Commons licensing scheme is reused.
