@@ -3,7 +3,7 @@ This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspr
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring.
 
-This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will cost $10 for a single set (approximately) by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from eBay seller **AndyShap2 [here](https://www.ebay.com/itm/125428348675)** (single set) or **[here](https://www.ebay.com/itm/125578735361?hash=item1d3d136f01:g:w1gAAOSwDgRjWxwW)** (complete set).
+This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will cost $10 for a single set (approximately) by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from eBay seller **AndyShap2 [here](https://www.ebay.com/itm/125428348675)** (single set) or **[here](https://www.ebay.com/itm/125578735361)** (complete set).
 
 The winder design dimensions are parameterized. This allows us to dynamically change any size/dimensions parameter, and FreeCAD will recalculate the entire design accordingly for proper functionality. This is how the generator script is able to build a complete set of winders with different sizes each (7mm to 18.5mm) from just a single design file.
 
