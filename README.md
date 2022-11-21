@@ -76,6 +76,7 @@ For known issues, see [issues section](https://github.com/vishnu350/rs-mainsprin
 
 # Thanks & How To Contribute
 If you like my work, please consider:
+- **Post a picture of your first fully wound mainspring and winder set in the discussion section or WRT forums!**
 - **Sending me old/broken mainsprings and barrels** for experimenting, it helps me improve this project!
 - Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
 - Sharing your success/failure story on your using the RS winder for unknown mainsprings/barrels.
