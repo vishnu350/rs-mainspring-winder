@@ -33,7 +33,7 @@ There are several parts to the RS mainspring winder:
 Recommended 3D printing options:
 - **Material: PLA or PLA+** (best for high accuracy prints).
 - **Infill: 20% or more** (parts may crumble under stress if lower).
-- **Layer thickness: 100 µm** or better.
+- **Layer thickness: 0.1 mm** or better.
 - **Color: Any**, go with white if unsure, best if all parts are the same color for equal dimensional tolerances between prints.
 - **Printer: Any well calibrated 3D printer**, it is important that the print job is done with high accuracy instead of speed.
 - **Placement: Widest flat surface should face downwards**, so the printer will not struggle with the job.
