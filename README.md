@@ -10,7 +10,8 @@ The winder design dimensions are parameterized. This allows us to dynamically ch
 The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
 
 **Watch this YouTube video [here](https://youtu.be/EZvd_MKBOUQ) or [here](https://youtu.be/OAfQTk89P3s) (older) to better understand the RS winder parts and how it works.**<br/>
-**Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or GitHub discussion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**
+**Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or GitHub discussion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**<br/>
+**You are welcomed to share a picture of your first fully wound mainspring and winder set!**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/5123344/179362355-92640bc8-f01c-4858-81e5-610a5d544c9d.jpg" alt="drawing" width="40%"/>
@@ -76,7 +77,7 @@ For known issues, see [issues section](https://github.com/vishnu350/rs-mainsprin
 
 # Thanks & How To Contribute
 If you like my work, please consider:
-- **Post a picture of your first fully wound mainspring and winder set in the discussion section or WRT forums!**
+- **Post a picture of your first fully wound mainspring and winder set** in the discussion section or WRT forums!
 - **Sending me old/broken mainsprings and barrels** for experimenting, it helps me improve this project!
 - Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
 - Sharing your success/failure story on your using the RS winder for unknown mainsprings/barrels.
