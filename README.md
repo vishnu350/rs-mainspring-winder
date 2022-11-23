@@ -45,6 +45,7 @@ Steps to build your RS mainspring winder:
    - Print your winder base part STL/3MF file. Choose from 1.5-3.0mm sizes, whichever matches your mainspring arbour the best.
    - Print your housing barrel and plunger part STL/3MF files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes. In-depth winder size selection guide [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring).
    - Print your setter bowl part STL/3MF file, this part should universally work with all housing barrels.
+   - Print your staple jig part STL file.
 3. Fashion a stapler pin into an arbour hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base) or watch video [here](https://youtu.be/na0XtIDea9I)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
 4. Install the appropriate dowel pin for your winder base part:
    - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 16mm in length.
