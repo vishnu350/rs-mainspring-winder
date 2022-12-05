@@ -64,7 +64,7 @@ Please go to the wiki for instructions: [Customizing & Generating the RS winder]
 To generate the STL/3MF files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br/>`freecadcmd generate_stl.py`
 
 # Warnings and Advice
-- For known issues, see [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues).
+- For known issues, see the [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues).
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. See the [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues) before deciding if this is for you, otherwise please consider getting a professional mainspring winder set.
 - While this winder works great for many users, it still requires you to be resourceful and competent in basic watchmaking skills.
 - Refer to the wiki for [help with winder size selection](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), if you chose the wrong size **you WILL damage your mainspring**.
