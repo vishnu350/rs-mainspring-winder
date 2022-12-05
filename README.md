@@ -1,5 +1,5 @@
 # Introduction
-This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it proudly comes with **absolutely zero warranty**. Use it at your own risk.
+This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), and [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring.
 
@@ -48,9 +48,10 @@ Steps to build your RS mainspring winder:
    - Print your staple jig part STL file.
 3. Fashion a stapler pin into an arbour hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base) or watch video [here](https://youtu.be/na0XtIDea9I)), use a metal file to reduce thickness if needed. Insert it into any of the holes on the winder base part that fits best.
 4. Install the appropriate dowel pin for your winder base part:
-   - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 16mm in length.
-   - For large size winder base: 2.0mm/2.5mm (M2.0/M2.5) diameter dowel pins, 16mm in length.
-   - Dowel pin purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
+   - Recommended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
+   - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 18mm in length.
+   - For large size winder base: 2.0mm/2.5mm (M2.0/M2.5) diameter dowel pins, 18mm in length.
+   - Using glue/epoxy for the dowel pins are optional, apply only a teeny tiny amount as needed.
 
 # Using the RS winder
 Please go to the wiki for instructions: [Using the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder).
