@@ -64,21 +64,17 @@ Please go to the wiki for instructions: [Customizing & Generating the RS winder]
 To generate the STL/3MF files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br/>`freecadcmd generate_stl.py`
 
 # Warnings and Advice
+- For known issues, see [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues).
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**. See the [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues) before deciding if this is for you, otherwise please consider getting a professional mainspring winder set.
 - While this winder works great for many users, it still requires you to be resourceful and competent in basic watchmaking skills.
 - Refer to the wiki for [help with winder size selection](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), if you chose the wrong size **you WILL damage your mainspring**.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
-- Be very careful when unwinding, do it slowly.
 - It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
-
-# Future Updates
-Always room for improvement for better quality and ease of use.
-
-For known issues, see [issues section](https://github.com/vishnu350/rs-mainspring-winder/issues).
+- Be very careful when unwinding, do it slowly.
 
 # Thanks & How To Contribute
-If you like my work, please consider:
+If you like this work, please consider:
 - **Post a picture of your first fully wound mainspring and winder set** in the discussion section or WRT forums!
 - Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
 
