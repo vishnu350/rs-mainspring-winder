@@ -3,15 +3,22 @@ This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspr
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring.
 
-This mainspring winder is designed using FreeCAD to be easily 3D printed with no post-processing/finishing required. It will cost $10 for a single set (approximately) by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from eBay seller **AndyShap2 [here](https://www.ebay.com/itm/125428348675)** (single set) or **[here](https://www.ebay.com/itm/125578735361)** (complete set).
+The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D print. It will cost $10 to print a single set (approximately) by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from **eBay seller AndyShap2 [here](https://www.ebay.com/itm/125428348675) (single set)** or **[here](https://www.ebay.com/itm/125578735361) (complete set).**
 
-The winder design dimensions are parameterized. This allows us to dynamically change any size/dimensions parameter, and FreeCAD will recalculate the entire design accordingly for proper functionality. This is how the generator script is able to build a complete set of winders with different sizes each (7mm to 18.5mm) from just a single design file.
-
-The RS mainspring winder works very well when constructed correctly, and can wind in both clockwise and counter-clockwise directions. It will not kink or damage the mainspring due to the PLA material being softer than steel, yet tough enough to withstand the winding stress.
+The RS mainspring winder works very well when properly constructed. **List of features:**
+- Guaranteed to work on all released sizes, since the build process is automated.
+- Cheap and easy to print with no post-processing/finishing or support material required.
+- PLA/PLA+ materials are softer than steel, and thus will not kink or damage the mainspring.
+- PLA/PLA+ materials are tough/elastic enough to withstand the winding stress.
+- PLA/PLA+ materials will not shear into tiny bits during use[<sup>1<sup>](https://github.com/vishnu350/rs-mainspring-winder#warnings-and-advice), and thus will not contaminate the mainspring.
+- Never need to worry about wearing out the arbour hooks, as [staple pins are easily replaced](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base).
+- Nice knurling patterns for a good grip while winding, and winder sizes are properly labelled.
+- Can wind in both directions (clockwise and counter-clockwise).
+- Pick any size. The Python generator script accurately buils a [complete set of winders](https://github.com/vishnu350/rs-mainspring-winder/releases/latest/download/rs-winder.zip) (7mm-18.5mm) from a single design file.
+- Or customize it for a specific movement. The winder dimensions are parameterized, and can be easily [tweaked in FreeCAD](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder).
 
 **Watch this YouTube video [here](https://youtu.be/EZvd_MKBOUQ) or [here](https://youtu.be/OAfQTk89P3s) (older) to better understand the RS winder parts and how it works.**<br/>
 **Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or GitHub discussion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**<br/>
-**You are encouraged to share a picture of your first fully wound mainspring and winder set!**
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/5123344/179362355-92640bc8-f01c-4858-81e5-610a5d544c9d.jpg" alt="drawing" width="40%"/>
@@ -71,12 +78,14 @@ To generate the STL/3MF files for the various different sizes of all the RS wind
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
 - It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
+- If the printed parts are stringy, it means your printer isnt properly calibrated. Make sure to properly clean the parts before use to avoid contamination.
 - Be very careful when unwinding, do it slowly.
 
 # Thanks & How To Contribute
-If you like this work, please consider:
+If you like this work, please consider to:
 - **Post a picture of your first fully wound mainspring and winder set** in the discussion section or WRT forums!
-- Fixing bugs/issues, contributing to the design, or experimenting with 3D printouts using untested parameters.
+- Fix bugs/issues, contribute to the design, or experiment with 3D printouts using untested parameters.
+- **Tip me through a [one time sponsor](https://github.com/sponsors/vishnu350)**. For coffee :)
 
 Credits and thanks to the following folk:
 - AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
