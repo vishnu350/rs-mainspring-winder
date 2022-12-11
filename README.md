@@ -8,14 +8,14 @@ The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D pr
 The RS mainspring winder works very well when properly constructed. **List of features:**
 - Guaranteed to work on all released sizes, since the build process is automated.
 - Cheap and easy to print with no post-processing/finishing or support material required.
-- PLA/PLA+ materials are softer than steel, and thus will not kink or damage the mainspring.
-- PLA/PLA+ materials are tough/elastic enough to withstand the winding stress.
-- PLA/PLA+ materials will not shear into tiny bits during use[<sup>1<sup>](https://github.com/vishnu350/rs-mainspring-winder#warnings-and-advice), and thus will not contaminate the mainspring.
-- Never need to worry about wearing out the arbour hooks, as [staple pins are easily replaced](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base).
-- Nice knurling patterns for a good grip while winding, and winder sizes are properly labelled.
-- Can wind in both directions (clockwise and counter-clockwise).
+- PLA/PLA+ material is softer than steel, and thus it will not kink or damage the mainspring.
+- PLA/PLA+ material is tough/elastic enough to withstand the winding stress.
+- PLA/PLA+ material will not shear into tiny bits during use[<sup>1<sup>](https://github.com/vishnu350/rs-mainspring-winder#warnings-and-advice), and thus it will not contaminate the mainspring.
+- Never need to worry about wearing out the arbour hooks, as [staple pins are easy to replace](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base).
+- Knurling pattern for a good grip during use, and with clear size labelling.
+- Can wind in both directions, clockwise and counter-clockwise.
 - Pick any size. The Python generator script accurately buils a [complete set of winders](https://github.com/vishnu350/rs-mainspring-winder/releases/latest/download/rs-winder.zip) (7mm-18.5mm) from a single design file.
-- Or customize it for a specific movement. The winder dimensions are parameterized, and can be easily [tweaked in FreeCAD](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder).
+- Or customize size for a specific movement. The winder dimensions are parameterized and can be easily [tweaked](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder).
 
 **Watch this YouTube video [here](https://youtu.be/EZvd_MKBOUQ) or [here](https://youtu.be/OAfQTk89P3s) (older) to better understand the RS winder parts and how it works.**<br/>
 **Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or GitHub discussion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**<br/>
@@ -85,7 +85,7 @@ To generate the STL/3MF files for the various different sizes of all the RS wind
 If you like this work, please consider to:
 - **Post a picture of your first fully wound mainspring and winder set** in the discussion section or WRT forums!
 - Fix bugs/issues, contribute to the design, or experiment with 3D printouts using untested parameters.
-- **Tip me through a [one time sponsor](https://github.com/sponsors/vishnu350?frequency=one-time) :)**
+- Tip me via a one time [sponsor](https://github.com/sponsors/vishnu350?frequency=one-time) :)
 
 Credits and thanks to the following folk:
 - AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
