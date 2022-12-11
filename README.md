@@ -85,7 +85,7 @@ To generate the STL/3MF files for the various different sizes of all the RS wind
 If you like this work, please consider to:
 - **Post a picture of your first fully wound mainspring and winder set** in the discussion section or WRT forums!
 - Fix bugs/issues, contribute to the design, or experiment with 3D printouts using untested parameters.
-- **Tip me through a [one time sponsor](https://github.com/sponsors/vishnu350)**. For coffee :)
+- **Tip me through a [one time sponsor](https://github.com/sponsors/vishnu350?frequency=one-time)**. For coffee :)
 
 Credits and thanks to the following folk:
 - AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
