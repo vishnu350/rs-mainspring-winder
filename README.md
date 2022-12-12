@@ -8,12 +8,13 @@ The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D pr
 The RS mainspring winder works very well when properly constructed. **List of features:**
 - Guaranteed to work on all released sizes, since the build process is automated.
 - Cheap and easy to print with no post-processing/finishing or support material required.
-- PLA/PLA+ material is softer than steel, and thus it will not kink or damage the mainspring.
+- Winds cleanly and safely, no more getting bits of skin stuck due to handwinding.
+- Can wind in both directions, clockwise and counter-clockwise.
+- Has knurling patterns on body for a good grip during use, along with clear size labelling.
 - PLA/PLA+ material is tough/elastic enough to withstand the winding stress.
 - PLA/PLA+ material will not shear into tiny bits during use[<sup>1<sup>](https://github.com/vishnu350/rs-mainspring-winder#warnings-and-advice), and thus it will not contaminate the mainspring.
+- Both PLA/PLA+ and staple pins are softer than steel, and thus it will not kink or damage the mainspring.
 - Never need to worry about wearing out the arbour hooks, as [staple pins are easy to replace](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base).
-- Has knurling pattern on body for a good grip during use, along with clear size labelling.
-- Can wind in both directions, clockwise and counter-clockwise.
 - Pick any size. The Python generator script accurately buils a [complete set of winders](https://github.com/vishnu350/rs-mainspring-winder/releases/latest/download/rs-winder.zip) (7mm-18.5mm).
 - Or customize size for a specific movement. The winder dimensions can be easily [tweaked](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder).
 
