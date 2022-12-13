@@ -1,12 +1,12 @@
 # Introduction
-This project helps watchmaking hobbyists build 3D printable "Rising Sun" mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), and [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
+This project helps watchmaking hobbyists build 3D printable mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), and [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
 
-Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes, the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding or other similar stunts, which will definitely kink or damage the mainspring.
+Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding, which may kink or damage the mainspring.
 
-The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D print. It will cost $10 to print a single set (approximately) by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from **eBay seller AndyShap2 [here](https://www.ebay.com/itm/125428348675) (single set)** or **[here](https://www.ebay.com/itm/125578735361) (complete set).**
+The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D print. It costs ~$10 to print a single set by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from **eBay seller AndyShap2 [here](https://www.ebay.com/itm/125428348675) (single set)** or **[here](https://www.ebay.com/itm/125578735361) (complete set).**
 
 The RS mainspring winder works very well when properly constructed. **List of features:**
-- Guaranteed to work on all released sizes, since the build process is automated.
+- Guaranteed to work on all released sizes, since the generation process is scripted.
 - Cheap and easy to print with no post-processing/finishing or support material required.
 - Winds cleanly and safely, no more getting bits of skin stuck due to handwinding.
 - Can wind in both directions, clockwise and counter-clockwise.
