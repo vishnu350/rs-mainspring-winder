@@ -71,17 +71,18 @@ To generate the STL/3MF files for the various different sizes of all the RS wind
 
 # Warnings and Advice
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**.
-- While this winder works great for many users, it still requires you to be resourceful and competent in basic watchmaking skills.
+- While this winder works great for many users, it still requires you to be resourceful and competent in basic watchmaking skills. You will be required to assess the health of the mainspring (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)).
+- It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder. Incorrect use can break or damage your mainspring, this is the case even with professional winders.
 - Refer to the wiki for [help with winder size selection](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), if you chose the wrong size **you WILL damage your mainspring**.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
-- It is recommended to practice first with spare mainsprings/barrels to get a feel of using the RS winder.
+- Always **hook the staple pin from the outside** of the mainspring inner loop hole to avoid deforming it when winding.
 - If the printed parts are stringy, it means your printer isnt properly calibrated. Make sure to properly clean the parts before use to avoid contamination.
 - Be very careful when unwinding, do it slowly.
 
 # Thanks & How To Contribute
 If you like this work, please consider to:
-- Please ⭐️ this repository if this project helped you :)
+- Please ⭐️ this repository if this project helped you.
 - Fix bugs/issues, contribute to the design, or experiment with 3D printouts using untested parameters.
 - Tip me via a one time [sponsor](https://github.com/sponsors/vishnu350?frequency=one-time) :)
 
