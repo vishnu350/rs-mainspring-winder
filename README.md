@@ -75,9 +75,9 @@ Please read every single sentence below carefully:
 - While this winder works great for many users, it still requires you to be resourceful and **competent in basic watchmaking skills**.
 - You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired/old mainsprings **WILL BREAK** regardless of how expensive your tools are.
 - It is recommended to **practice first with spare mainsprings/barrels** to get a feel of using the RS winder. Incorrect use can break or damage your mainspring, this is the case even with professional winders.
-- Refer to the wiki for [help with winder size selection](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), if you chose the wrong size **you WILL DAMAGE your mainspring**.
-- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [YouTube video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
-- Always **hook the staple pin from the outside** of the mainspring inner loop hole to avoid deforming or breaking it when winding. Watch the [Youtube video](https://youtu.be/EZvd_MKBOUQ?t=13) (min 0:13) to undertand this better, use 1080p HD if needed.
+- Refer to the wiki for help with [**winder size selection**](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), choosing the wrong size will damage your mainspring.
+- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
+- Always **hook the staple pin from the outside** of the mainspring inner loop hole to avoid deforming or breaking it when winding. Watch the [video](https://youtu.be/EZvd_MKBOUQ?t=13) (min 0:13) to undertand this better, select 1080p HD mode if needed.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
 - If the printed parts are stringy, it means your printer isnt properly calibrated. Make sure to properly clean the parts before use to avoid contamination.
 - Be very careful when unwinding, do it slowly.
