@@ -1,5 +1,5 @@
 # Introduction
-This project helps watchmaking hobbyists build 3D printable mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), and [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
+This project helps watchmaking hobbyists build 3D printable mainspring winders for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), [video](https://youtu.be/EZvd_MKBOUQ) resources found here, and study the [warnings section](https://github.com/vishnu350/rs-mainspring-winder#warnings-and-advice).
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding, which may kink or damage the mainspring.
 
@@ -69,7 +69,7 @@ Please go to the wiki for instructions: [Customizing & Generating the RS winder]
 
 To generate the STL/3MF files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br/>`freecadcmd generate_stl.py`
 
-# Warnings and Advice (MUST READ!)
+# Warnings and Advice
 Please read every single sentence below carefully:
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**.
 - While this winder works great for many users, it still requires you to be resourceful and **competent in basic watchmaking skills**.
