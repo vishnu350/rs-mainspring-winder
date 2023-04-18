@@ -69,7 +69,7 @@ Steps to build your RS mainspring winder:
    - Using glue/epoxy for the dowel pins are optional, apply only a teeny tiny amount as needed.
 
 # Using the RS winder
-Please go to the wiki for instructions: [Using the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder), and make sure to study the [correct arbour hooking method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring).
+Please go to the wiki for instructions: [Using the RS winder](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder), and make sure to study the [correct arbour hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring).
 
 Or watch a [YouTube video](https://youtu.be/EZvd_MKBOUQ).
 
@@ -86,7 +86,7 @@ Please read every single sentence below carefully:
 - It is recommended to **practice first with spare mainsprings/barrels** to get a feel of using the RS winder. Incorrect use can break or damage your mainspring, this is the case even with professional winders.
 - Refer to the wiki for help with [**winder size selection**](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), choosing the wrong size will damage your mainspring.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
-- Always **hook the staple pin from the outside** of the mainspring inner loop hole to avoid deforming or breaking it when winding. Study the [correct arbour hooking method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring) (clear diagram in wiki page), or watch the [video](https://youtu.be/EZvd_MKBOUQ?t=13) (min 0:13) to undertand this better.
+- Always **hook the staple pin from the outside** of the mainspring inner loop hole to avoid deforming or breaking it when winding. Study the [correct arbour hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring) (clear diagram in wiki page), or watch the [video](https://youtu.be/EZvd_MKBOUQ?t=13) (min 0:13) to undertand this better.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
 - If the printed parts are stringy, it means your printer isnt properly calibrated. Make sure to properly clean the parts before use to avoid contamination.
 - Be very careful when unwinding, do it slowly.
