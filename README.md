@@ -38,7 +38,7 @@ There are several parts to the RS mainspring winder:
 - **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no reason.
 - **The winder base**. This part is responsible for winding the mainspring with the help of the arbour hook.
 - **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The arbour hook**. Fashion this part out of a stapler pin and insert into the hole on the winder beside the arbour ([instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)), use the staple jig part for best results. Also called **anchor**.
+- **The arbour hook**. Fashion this part out of a staple pin using the staple jig part (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base)) and insert into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring)). Also called **anchor**.
 - **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
 - **The arbour rod**. Get a dowel pin (or equivalent) with 1.5mm-3.0mm diameter and place it at the center of the winder base.
 - **The staple jig**. Use this part to easily cut the staple pins to form the arbour hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
@@ -61,7 +61,7 @@ Steps to build your RS mainspring winder:
    - Print your housing barrel and plunger part STL/3MF files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes. In-depth winder size selection guide [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring).
    - Print your setter bowl part STL/3MF file, this part should universally work with all housing barrels.
    - Print your staple jig part STL file.
-3. Fashion a stapler pin into an arbour hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base) or watch video [here](https://youtu.be/na0XtIDea9I)), use a metal file to reduce thickness if needed. Insert it into the holes on the winder base part based on [this guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring).
+3. Fashion a staple pin into an arbour hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbour-Hook-for-the-Winder-Base) or watch [video](https://youtu.be/na0XtIDea9I)), use a metal file to reduce thickness if needed. Insert it into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring)).
 4. Install the appropriate dowel pin for your winder base part:
    - Recommended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
    - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 18mm in length.
@@ -86,7 +86,7 @@ Please read every single sentence below carefully:
 - It is recommended to **practice first with spare mainsprings/barrels** to get a feel of using the RS winder. Incorrect use can break or damage your mainspring, this is the case even with professional winders.
 - Refer to the wiki for help with [**winder size selection**](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), choosing the wrong size will damage your mainspring.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
-- Always **hook the staple pin from the outside** of the mainspring to avoid deforming or breaking it when winding. Study the [correct arbour hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring) diagrams to undertand this better.
+- Always **hook the staple pin from the outside** of the mainspring with the **correct "*g*" gap** from the dowel pins to avoid deforming/breaking it when winding. Study the [correct arbour hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring) diagrams to undertand this better.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
 - If the printed parts are stringy, it means your printer isnt properly calibrated. Make sure to properly clean the parts before use to avoid contamination.
 - Be very careful when unwinding, do it slowly.
