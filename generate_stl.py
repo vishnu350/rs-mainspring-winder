@@ -68,9 +68,9 @@ for n in spring1_d:
     sheet.set("spr_d", n)
     sheet.set("version", "M"+n)
     if len(n) < 4:
-        sheet.set("version_x_offs", "-5.40")
+        sheet.set("version_x_offs", "-6.40")
     else:
-        sheet.set("version_x_offs", "-6.50")
+        sheet.set("version_x_offs", "-7.50")
     doc.recompute(None,True,True)
     export_mesh("Body", "Release/normal/plunger/rs-winder-plunger-"+n+"mm")
     export_mesh("Body001", "Release/normal/housing-barrel/rs-winder-housing-"+n+"mm")
