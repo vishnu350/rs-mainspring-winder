@@ -37,7 +37,7 @@ There are several parts to the RS mainspring winder:
 - **The arbour rod**. Get a dowel pin (or equivalent) with 1.5mm-3.0mm diameter and place it at the center of the winder base.
 - **The staple jig**. Use this part to easily cut the staple pins to form the arbour hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
 
-**NOTE:** *The arbour hook and rod are too small to be 3D printed, hence metal parts are **required** for the RS winder to work.*
+**NOTE:** *The arbour hook and rod are too small to be 3D printed, hence metal parts are **required**.*
 
 # Building the RS winder
 Recommended 3D printing options:
