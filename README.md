@@ -1,8 +1,6 @@
 # Introduction
 
-The RS mainspring winder is a fully functional 3D printable watch mainspring winder, with accurately calculated design files provided for every possible size imaginable. Everything provided here is free and open source.
-
-This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
+The RS mainspring winder is a fully functional 3D printable watch mainspring winder, with accurately calculated design files provided for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding, which may kink or damage the mainspring.
 
@@ -76,13 +74,13 @@ To generate the STL/3MF files for the various different sizes of all the RS wind
 Please read every single sentence below carefully:
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**.
 - While this winder works great for many users, it still requires you to be resourceful and **competent in basic watchmaking skills**.
-- You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired/old mainsprings **WILL BREAK** regardless of how expensive your tools are.
+- You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired or old mainsprings will break regardless of how expensive your tools are.
 - It is recommended to **practice first with spare mainsprings/barrels** to get a feel of using the RS winder. Incorrect use can break or damage your mainspring, this is the case even with professional winders.
 - Refer to the wiki for help with [**winder size selection**](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), choosing the wrong size will damage your mainspring.
-- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an elegant way to do this.
-- Always **hook the staple pin from the outside** of the mainspring with the **correct "*g*" gap** from the dowel pins to avoid deforming/breaking it when winding. Study the [correct arbour hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring) diagrams to undertand this better.
+- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
+- Always **hook the staple pin from the outside** of the mainspring to avoid issues when winding. Study the [correct arbour hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbour-Hook-to-the-Mainspring) diagrams to undertand this better.
 - If the staple pin is not fashioned correctly, it will easily get unhooked while winding or cause other issues.
-- If the printed parts are stringy, it means your printer isnt properly calibrated. Make sure to properly clean the parts before use to avoid contamination.
+- If the printed parts are stringy, it probably means your printer is not properly calibrated. Make sure to properly clean the stringy bits before using the winder to avoid contamination.
 - Be very careful when unwinding, do it slowly.
 
 # Thanks & How To Contribute
