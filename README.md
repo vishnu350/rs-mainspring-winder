@@ -13,12 +13,6 @@ The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D pr
 <img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="31%"/>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/github/v/release/vishnu350/rs-mainspring-winder?style=for-the-badge" alt="Release"/>
-    <img src="https://img.shields.io/github/downloads/vishnu350/rs-mainspring-winder/total?style=for-the-badge&label=Total Downloads" alt="Downloads"/>
-    <img src="https://img.shields.io/github/downloads/vishnu350/rs-mainspring-winder/rs-winder-v0.95/total?style=for-the-badge&label=v0.95 Downloads" alt="Downloads"/>
-</p>
-
 The RS mainspring winder works very well when properly constructed. **List of features:**
 - Guaranteed to work on all released sizes, since the generation process is scripted.
 - Cheap and easy to print with no post-processing/finishing or support material required.
