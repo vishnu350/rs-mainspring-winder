@@ -93,4 +93,4 @@ If you like this work, please consider to:
 Credits and thanks to the following folk:
 - AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
 - Fratink for coming up with the first 3D winder design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. While the RS winder is very different and more functional than this version, it helped inspire the creation of this project. The same free Creative Commons licensing scheme is re-used.
-- All the folk who tested the RS winder, gave constructive feedback based on their experience, posted pictures and helped others along their watchmaking journey. Thank you.
+- All those who tested the RS winder, gave constructive feedback, posted pictures and helped others along their watchmaking journey. Thank you.
