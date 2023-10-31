@@ -79,7 +79,7 @@ Please read every single sentence below carefully:
 - Refer to the wiki for help with [**winder size selection**](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), choosing the wrong size will damage your mainspring.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
 - Always **hook the staple pin from the outside** of the mainspring to avoid issues when winding. Study the [correct arbor hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring) diagrams to undertand this better.
-- The **height of the staple pin is extremely important**, it must be trimmed correctly to fit. Make sure that the height is adjusted such that the arbor hook height aligns with the hole of the mainspring, so that it will catch properly during winding.
+- The **height of the staple pin is extremely important**, it must be trimmed correctly to fit. Make sure the staple pin height is adjusted such that the hook aligns with the hole of the mainspring, so that it will catch properly while winding.
 - Always **manually push the mainspring's tail end** instead of forcibly winding it into the winder. This is to avoid unnecesary stress onto the arbor and mainspring eye.
 - If the printed parts are stringy, it probably means your printer is not properly calibrated. Make sure to properly clean the stringy bits before using the winder to avoid contamination.
 - Be very careful when unwinding, do it slowly.
