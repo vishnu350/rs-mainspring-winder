@@ -17,6 +17,7 @@ The RS mainspring winder works very well when properly constructed. **List of fe
 - Winds cleanly and safely, no more getting bits of skin stuck due to handwinding.
 - Can wind in both directions, clockwise and counter-clockwise.
 - Has knurling patterns on body for a good grip during use, along with clear size labelling.
+- Mainspring will never get caught in between winder barrel and plunger due to unique design style.
 - PLA/PLA+ material is tough/elastic enough to withstand the winding stress.
 - Both PLA/PLA+ and staple pins are softer than steel, and thus it will not kink or damage the mainspring.
 - Never need to worry about wearing out the arbor hooks, as [staple pins are easy to replace](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base).
