@@ -92,6 +92,7 @@ If you like this work, please consider to:
 - Tip me via a one time [sponsor](https://github.com/sponsors/vishnu350?frequency=one-time) :)
 
 Credits and thanks to the following folk:
-- AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files and wiki guides.
+- AndyShap for sharing his setter bowl and staple jig ideas. Also for providing the design files, wiki guides and video walkthroughs.
+- Yxoc for sharing detailed step by step instructions with pictures [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/?do=findComment&comment=233556) to be used by the wiki guides.
 - Fratink for coming up with the first 3D winder design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. While the RS winder is very different and more functional than this version, it helped inspire the creation of this project. The same free Creative Commons licensing scheme is re-used.
 - All those who tested the RS winder, gave constructive feedback, posted pictures and helped others along their watchmaking journey. Thank you.
