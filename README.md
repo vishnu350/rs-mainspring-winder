@@ -58,7 +58,7 @@ Steps to build your RS mainspring winder:
 4. Install the appropriate dowel pin for your winder base part:
    - Recommended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
    - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 18mm in length.
-   - For large size winder base: 2.0mm/2.5mm (M2.0/M2.5) diameter dowel pins, 18mm in length.
+   - For large size winder base: 2.5mm/3.0mm (M2.5/M3.0) diameter dowel pins, 18mm in length.
    - Using glue/epoxy for the dowel pins are optional, apply only a teeny tiny amount as needed.
 
 # Using the RS winder
@@ -88,8 +88,8 @@ Please read every single sentence below carefully:
 # Thanks & How To Contribute
 If you like this work, please consider to:
 - Please ⭐️ this repository if this project helped you.
-- Fix bugs/issues, contribute to the design, or experiment with 3D printouts using untested parameters.
-- Tip me via a one time [sponsor](https://github.com/sponsors/vishnu350?frequency=one-time) :)
+- Notify me if the dowel pin part links are no longer functional.
+- Buy me a cup of [coffee](https://github.com/sponsors/vishnu350?frequency=one-time)
 
 Credits and thanks to the following folk:
 - **AndyShap** for sharing his setter bowl and staple jig ideas. Also for providing the design files, wiki guides and video walkthroughs.
