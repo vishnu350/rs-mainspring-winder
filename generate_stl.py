@@ -17,7 +17,8 @@ def export_mesh(body_obj,filename):
 ## List of sizes to generate
 ## Large range  = h=2.8, d=12-18
 ## Normal range = h=1.6, d=7-12
-rs_version = "0.97"
+rs_version = "0.98"
+spring0_d = ["4.5", "5.0", "5.5", "6.0",  "6.5"]
 spring1_d = ["7.0", "7.5", "8.0",  "8.5",  "9.0",  "9.5",  "10.0", "10.5", "11.0", "11.5", "12.0", "12.5"]
 spring2_d = ["13.0",  "13.5",  "14.0",  "14.5", "15.0", "15.5", "16.0", "16.5", "17.0", "17.5", "18.0", "18.5"]
 
@@ -28,8 +29,13 @@ sheet = doc.Spreadsheet002
 
 ## Create release file dirs
 os.mkdir("Release")
+os.mkdir("Release/small")
 os.mkdir("Release/normal")
 os.mkdir("Release/large")
+os.mkdir("Release/small/winder-base")
+os.mkdir("Release/small/housing-barrel")
+os.mkdir("Release/small/bowl-setter")
+os.mkdir("Release/small/plunger")
 os.mkdir("Release/normal/winder-base")
 os.mkdir("Release/normal/housing-barrel")
 os.mkdir("Release/normal/bowl-setter")
@@ -45,6 +51,35 @@ shutil.copyfile("LICENSE", "Release/LICENSE")
 
 
 ###############################
+## Generate small winder     ##
+###############################
+## Setup small winder params
+sheet.set("spr_h",  "1.6")   ## Set max spring height
+sheet.set("spr_ex", "0.55")  ## Set setter bowl spring extrude depth
+sheet.set("arb_d",  "1.125") ## Fits M1.0 dowel + clearance
+sheet.set("hook_d", "0.50")  ## Set hook hole diameter
+sheet.set("body_d", "20.0")  ## Set winder body diameter
+sheet.set("door_r", "0.35")  ## Set winder body door ratio
+sheet.set("stalk_r", "1.00")  ## Set plunger stalk ratio
+doc.recompute(None,True,True)
+
+## Generate winder base (M1.0)
+export_mesh("Body002", "Release/small/winder-base/rs-winder-base-small-1.0mm")
+
+## Generate housing/plunger (based on spring diameter)
+for n in spring0_d:
+    sheet.set("spr_d", n)
+    sheet.set("version", "M"+n)
+    sheet.set("version_x_offs", "-6.40")
+    doc.recompute(None,True,True)
+    export_mesh("Body", "Release/small/plunger/rs-winder-plunger-"+n+"mm")
+    export_mesh("Body001", "Release/small/housing-barrel/rs-winder-housing-"+n+"mm")
+
+## Generate setter bowl
+export_mesh("Body003", "Release/small/bowl-setter/rs-setter-bowl-small")
+
+
+###############################
 ## Generate normal winder    ##
 ###############################
 ## Setup normal winder params
@@ -53,6 +88,8 @@ sheet.set("spr_ex", "0.65")  ## Set setter bowl spring extrude depth
 sheet.set("arb_d",  "1.625") ## Fits M1.5 dowel + clearance
 sheet.set("hook_d", "0.52")  ## Set hook hole diameter
 sheet.set("body_d", "25.0")  ## Set winder body diameter
+sheet.set("door_r", "0.25")  ## Set winder body door ratio
+sheet.set("stalk_r", "0.6")  ## Set plunger stalk ratio
 doc.recompute(None,True,True)
 
 ## Generate winder base (M1.5)
@@ -92,6 +129,8 @@ sheet.set("spr_ex", "0.75")  ## Set setter bowl spring extrude depth
 sheet.set("arb_d",  "2.625") ## Fits M2.5 dowel + clearance
 sheet.set("hook_d", "0.55")  ## Set hook hole diameter
 sheet.set("body_d", "30.0")  ## Set winder body diameter
+sheet.set("door_r", "0.25")  ## Set winder body door ratio
+sheet.set("stalk_r", "0.6")  ## Set plunger stalk ratio
 doc.recompute(None,True,True)
 
 ## Generate winder base (M2.5)
