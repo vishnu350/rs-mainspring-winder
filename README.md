@@ -1,6 +1,6 @@
 # Introduction
 
-The RS mainspring winder is a fully functional 3D printable watch mainspring winder, with accurately calculated design files provided for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
+The rising sun (RS) mainspring winder is a fully functional 3D printable watch mainspring winder, with accurately calculated design files provided for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding, which may kink or damage the mainspring.
 
@@ -40,7 +40,7 @@ There are several parts to the RS mainspring winder:
 
 # Building the RS winder
 Recommended 3D printing options:
-- **Material: PLA or PLA+** (best for high accuracy prints).
+- **Material: PLA or PLA+** (best for high accuracy prints). Resin is not recommended due to higher [friction](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/?do=findComment&comment=262052).
 - **Infill: 20% or more** (parts may crumble under stress if lower).
 - **Layer thickness: 0.1 mm** or better.
 - **Color: Any**, go with white if unsure. Best if all parts are of the same color for equal tolerances.
@@ -71,7 +71,7 @@ Please go to the wiki for instructions: [Customizing & Generating the RS winder]
 
 To generate the STL/3MF files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br/>`freecadcmd generate_stl.py`
 
-# Warnings and Advice
+# Warnings and Advice (READ CAREFULLY!)
 Please read every single sentence below carefully:
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**.
 - While this winder works great for many users, it still requires you to be resourceful and **competent in basic watchmaking skills**.
@@ -82,14 +82,19 @@ Please read every single sentence below carefully:
 - Always **hook the staple pin from the outside** of the mainspring to avoid issues when winding. Study the [correct arbor hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring) diagrams to undertand this better.
 - The **height of the staple pin is extremely important**, it must be trimmed correctly to fit. Make sure the staple pin height is adjusted such that the hook aligns with the hole of the mainspring, so that it will catch properly while winding.
 - Always **manually push the mainspring's tail end** instead of forcibly winding it into the winder. This is to avoid unnecesary stress onto the arbor and mainspring eye.
+- If a mainspring is **harder to wind as compared to your succesfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem. If you are unable to determine this, then go back to practicing with spare mainsprings to get a feel.
 - If the printed parts are stringy, it probably means your printer is not properly calibrated. Make sure to properly clean the stringy bits before using the winder to avoid contamination.
-- Be very careful when unwinding, do it slowly.
+- Be very careful when unwinding, do it slowly or risk getting the arbor entangled.
 
 # Thanks & How To Contribute
 If you like this work, please consider to:
 - Please ⭐️ this repository if this project helped you.
-- Notify me if the dowel pin part links are no longer functional.
+- Notify me if the part links are no longer functional.
 - Buy me a cup of [coffee](https://github.com/sponsors/vishnu350?frequency=one-time)
+
+Future work:
+- Support piano wire (staple hole all the way down) + clamp mechanism.
+- Flat washer part for mainspring arbor to help reduce stress on the innermost coil while winding.
 
 Credits and thanks to the following folk:
 - **AndyShap** for sharing his setter bowl and staple jig ideas, as well as refinements to the overall design. Also for providing the design files, wiki guides and video walkthroughs.
