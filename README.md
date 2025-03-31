@@ -40,10 +40,13 @@ There are several parts to the RS mainspring winder:
 
 # Building the RS winder
 Recommended 3D printing options:
-- **Material: PLA or PLA+** (best for high accuracy prints). Resin is not recommended due to higher [friction](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/?do=findComment&comment=280627).
+- **Material:**
+   - **PLA or PLA+ is the optimal choice** for low friction parts with high accuracy printing.
+   - Nylon or similar tough materials for FDM 3D printers may be used, but your mileage may vary.
+   - **Avoid resin materials**, they are not recommended due to [higher surface friction](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/?do=findComment&comment=280627) vs steels.
 - **Infill: 20% or more** (parts may crumble under stress if lower).
 - **Layer thickness: 0.1 mm** or better.
-- **Color: Any**, go with white if unsure. Best if all parts are of the same color for equal tolerances.
+- **Color: Any**, go with off-white if unsure. Best if all parts are of the same color for equal tolerances.
 - **Printer: Any well calibrated FDM 3D printer**, best if the print job is done with high accuracy settings.
 - **Placement: Widest flat surface should face downwards** on print bed for best results, applies for all parts.
 
