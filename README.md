@@ -18,7 +18,7 @@ The RS mainspring winder works very well when properly constructed. **List of fe
 - Can wind in both directions, clockwise and counter-clockwise.
 - Has knurling patterns on body for a good grip during use, along with clear size labelling.
 - Mainspring will never get caught in between winder barrel and plunger due to unique design style.
-- PLA/PLA+ material is tough/elastic enough to withstand the winding stress.
+- PLA/PLA+ material is tough enough to withstand the winding stress and has very low friction vs steel.
 - Both PLA/PLA+ and staple pins are softer than steel, and thus it will not kink or damage the mainspring.
 - Never need to worry about wearing out the arbor hooks, as [staple pins are easy to replace](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base).
 - Pick any size from the generated [set of winders](https://github.com/vishnu350/rs-mainspring-winder/releases/latest/download/rs-winder.zip) (7mm-18.5mm) or [customize](https://github.com/vishnu350/rs-mainspring-winder/wiki/Customizing-&-Generating-the-RS-winder) it yourself.
@@ -40,11 +40,11 @@ There are several parts to the RS mainspring winder:
 
 # Building the RS winder
 Recommended 3D printing options:
-- **Material: PLA or PLA+** (best for high accuracy prints). Resin is not recommended due to higher [friction](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/?do=findComment&comment=262052).
+- **Material: PLA or PLA+** (best for high accuracy prints). Resin is not recommended due to higher [friction](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/?do=findComment&comment=280627).
 - **Infill: 20% or more** (parts may crumble under stress if lower).
 - **Layer thickness: 0.1 mm** or better.
 - **Color: Any**, go with white if unsure. Best if all parts are of the same color for equal tolerances.
-- **Printer: Any well calibrated 3D printer**, best if the print job is done with high accuracy settings.
+- **Printer: Any well calibrated FDM 3D printer**, best if the print job is done with high accuracy settings.
 - **Placement: Widest flat surface should face downwards** on print bed for best results, applies for all parts.
 
 Steps to build your RS mainspring winder:
@@ -92,9 +92,9 @@ If you like this work, please consider to:
 - Notify me if the part links are no longer functional.
 - Buy me a cup of [coffee](https://github.com/sponsors/vishnu350?frequency=one-time)
 
-Future work:
-- Support piano wire (staple hole all the way down) + clamp mechanism.
-- Flat washer part for mainspring arbor to help reduce stress on the innermost coil while winding.
+Help needed for future work:
+- Support for magnet wires or steel braiding wires (staple hole all the way down) + updated jig. Possibly U shaped.
+- 3D printed washer part for mainspring arbor to help reduce stress on the innermost coil while winding on the large winder sets.
 
 Credits and thanks to the following folk:
 - **AndyShap** for sharing his setter bowl and staple jig ideas, as well as refinements to the overall design. Also for providing the design files, wiki guides and video walkthroughs.
