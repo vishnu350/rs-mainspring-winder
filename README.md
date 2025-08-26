@@ -57,8 +57,11 @@ Steps to build your RS mainspring winder:
    - Print your housing barrel and plunger part STL/3MF files. Size is based on mainspring barrel inner diameter, make sure to select matching sizes. In-depth winder size selection guide [here](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring).
    - Print your setter bowl part STL/3MF file, this part should universally work with all housing barrels.
    - Print your staple jig part STL file.
-3. Fashion a staple pin into an arbor hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base) or watch [video](https://youtu.be/na0XtIDea9I)), use a metal file to reduce thickness if needed. Insert it into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
-4. Install the appropriate dowel pin for your winder base part:
+3. Fashion a staple pin into an arbor hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base) or watch [video](https://youtu.be/na0XtIDea9I)). Insert it into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
+4. Use a fish hook sharpener to reduce the thickness of the staple pin so that it will latch easier on to the mainspring (if needed).
+   - Recomended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005006607858844.html).
+   - Remember to clean off the metal filings after sharpening the staple hook.
+5. Install the appropriate dowel pin for your winder base part:
    - Recommended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
    - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 18mm in length.
    - For large size winder base: 2.5mm/3.0mm (M2.5/M3.0) diameter dowel pins, 18mm in length.
@@ -80,6 +83,7 @@ Please read every single sentence below carefully:
 - While this winder works great for many users, it still requires you to be resourceful and **competent in basic watchmaking skills**.
 - You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired or old mainsprings will break regardless of how expensive your tools are.
 - It is recommended to **practice first with spare mainsprings/barrels** to get a feel of using the RS winder. Incorrect use can break or damage your mainspring, this is the case even with professional winders.
+- If you find the staple too fiddly or you are struggling to latch it to the mainspring, **use a [fish hook sharpener](https://www.aliexpress.com/item/1005006607858844.html) to file it down**.
 - Refer to the wiki for help with [**winder size selection**](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring), choosing the wrong size will damage your mainspring.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
 - Always **hook the staple pin from the outside** of the mainspring to avoid issues when winding. Study the [correct arbor hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring) diagrams to understand this better.
