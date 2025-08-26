@@ -1,6 +1,6 @@
 # Introduction
 
-The rising sun (RS) mainspring winder is a fully functional 3D printable watch mainspring winder, with accurately calculated design files provided for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thouroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
+The rising sun (RS) mainspring winder is a fully functional 3D printable watch mainspring winder, with accurately calculated design files provided for every possible size imaginable. Everything provided here is free and open source. This is the modern solution to hobbyist mainspring winding woes and it comes with **absolutely zero warranty**. You are advised to thoroughly go through this README, the [wiki pages](https://github.com/vishnu350/rs-mainspring-winder/wiki), [video](https://youtu.be/EZvd_MKBOUQ) resources found here.
 
 Watch mainspring winding for hobbyists has always been a problem, as most of us cannot afford the $1500 Bergeon set to wind vintage unbranded mainsprings/barrels. Or sometimes the appropriate size just isn't available. This forces most casual hobbyists to resort to handwinding, which may kink or damage the mainspring.
 
@@ -16,7 +16,7 @@ The RS mainspring winder works very well when properly constructed. **List of fe
 - Cheap and easy to print with no post-processing/finishing or support material required.
 - Winds cleanly and safely, no more getting bits of skin stuck due to handwinding.
 - Can wind in both directions, clockwise and counter-clockwise.
-- Has knurling patterns on body for a good grip during use, along with clear size labelling.
+- Has knurling patterns on body for a good grip during use, along with clear size labeling.
 - Mainspring will never get caught in between winder barrel and plunger due to unique design style.
 - PLA/PLA+ material is tough enough to withstand the winding stress and has very low friction vs steel.
 - Both PLA/PLA+ and staple pins are softer than steel, and thus it will not kink or damage the mainspring.
@@ -60,7 +60,7 @@ Steps to build your RS mainspring winder:
 3. Fashion a staple pin into an arbor hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base) or watch [video](https://youtu.be/na0XtIDea9I)). Insert it into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
 4. Use a fish hook sharpener to reduce the thickness of the staple pin so that it will better match the mainspring hole (if needed).
    - Recomended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005006607858844.html).
-   - For best results, use an eyeloop or a microscope while working on sharpening the staple hook.
+   - For best results, use eye magnification while working on sharpening the staple hook.
    - Remember to clean off the metal filings after sharpening the staple hook.
 5. Install the appropriate dowel pin for your winder base part:
    - Recommended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
