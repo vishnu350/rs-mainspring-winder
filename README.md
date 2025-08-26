@@ -87,14 +87,14 @@ Please read every single sentence below carefully:
 - If the printed parts are stringy, it probably means your printer is not properly calibrated. Make sure to properly clean the stringy bits before using the winder to avoid contamination.
 - Be very careful when unwinding, do it slowly or risk getting the mainspring and staple pin entangled.
 
-**On winding the mainspring**:
+On winding the mainspring:
 - You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired or old mainsprings will break regardless of how expensive your tools are.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
 - Always **manually push the mainspring's tail end** instead of forcibly winding it into the winder. This is to avoid unnecessary stress onto the arbor and mainspring eye.
 - If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem. If you are unable to determine this, then go back to practicing with spare mainsprings to get a feel.
 - **Do not discard the setter bowl part!** It is specifically designed for pushing out the mainspring a teeny bit **BEFORE** actually placing the mainspring barrel, and the viewhole allows you to see it pushed. Once it is slightly jutting out of the winder, placing the mainspring barrel on it is easy and it can be safely plunged.
 
-**On using the staple pin**:
+On using the staple pin:
 - If you find the staple pin too "fiddly" or you are struggling to latch it to the mainspring, **use a [fish hook sharpener](https://www.aliexpress.com/item/1005006607858844.html) to sharpen the top half of the staple** so that it will match the size of the mainspring hole. Once latched, it will stay in place and not move.
 - The **height of the staple pin is extremely important**, it must be trimmed correctly to fit. Make sure the staple pin height is adjusted such that the hook aligns with the hole of the mainspring, so that it will catch properly while winding.
 - Always **hook the staple pin from the outside** of the mainspring to avoid issues when winding. Study the [correct arbor hook latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring) diagrams to understand this better.
