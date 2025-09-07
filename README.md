@@ -7,8 +7,8 @@ Watch mainspring winding for hobbyists has always been a problem, as most of us 
 The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D print. It costs ~$10 to print a single set by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from **eBay seller AndyShap2 [here](https://www.ebay.com/itm/125428348675) (single set)** or **[here](https://www.ebay.com/itm/125578735361) (complete set).**
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/5123344/179362355-92640bc8-f01c-4858-81e5-610a5d544c9d.jpg" alt="drawing" width="40%"/>
-<img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="31%"/>
+<img src="https://github.com/user-attachments/assets/7235dc2a-3123-4f9e-bd66-b80d4ab35ef4" alt="drawing" width=40.6% />
+<img src="https://github.com/vishnu350/rs-mainspring-winder/assets/5123344/503a3b6b-05e6-4174-b8a8-55bf989ea6f0" alt="drawing" width="40%"/>
 </p>
 
 The RS mainspring winder works very well when properly constructed. **List of features:**
@@ -93,6 +93,10 @@ On winding the mainspring:
 - Always **manually push the mainspring's tail end** instead of forcibly winding it into the winder. This is to avoid unnecessary stress onto the arbor and mainspring eye.
 - If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem. If you are unable to determine this, then go back to practicing with spare mainsprings to get a feel.
 - **Do not discard the setter bowl part!** It is specifically designed for pushing out the mainspring a teeny bit **BEFORE** actually placing the mainspring barrel, and the viewhole allows you to see it pushed. Once it is slightly jutting out of the winder, placing the mainspring barrel on it is easy and it can be safely plunged.
+<p align="center">
+<img src="https://github.com/vishnu350/rs-mainspring-winder/assets/5123344/1fa1f7ad-3fc7-4b25-b9fc-d7125184b0fa" width=25%>
+<img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="18.5%"/>
+</p>
 
 On using the staple pin:
 - If you find the staple pin too "fiddly" or you are struggling to latch it to the mainspring, **use a [fish hook sharpener](https://www.aliexpress.com/item/1005006607858844.html) to sharpen the top half of the staple** so that it will match the size of the mainspring hole. Once latched, it will stay in place and not move.
