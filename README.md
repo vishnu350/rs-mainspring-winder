@@ -99,9 +99,10 @@ On winding the mainspring:
 </p>
 
 On using the staple pin:
-- If you find the staple pin too "fiddly" or you are struggling to latch it to the mainspring, **use a [fish hook sharpener](https://www.aliexpress.com/item/1005006607858844.html) to sharpen the top half of the staple** so that it will match the size of the mainspring hole. Once latched, it will stay in place and not move.
 - The **height of the staple pin is extremely important**, it must be trimmed correctly to fit. Make sure the staple pin height is adjusted such that the hook aligns with the hole of the mainspring, so that it will catch properly while winding.
 - Always **hook the staple pin from the outside** of the mainspring to avoid issues when winding. Study the [correct staple pin latching method](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring) diagrams to understand this better.
+- If you are struggling to latch the staple pin to the mainspring hole, **use a [fish hook sharpener](https://www.aliexpress.com/item/1005006607858844.html) to sharpen the top half of the staple** so that it will match the size of the mainspring hole. Once latched, it will stay in place and not move.
+- If you still find the staple pin too **"fiddly"** even after sharpening it, then **learn how to steady your hands ([see article here](https://www.wikihow.com/Improve-Hand-Steadiness))**. Else, you may need to seriously reconsider watchmaking as a hobby. Parts such as hairsprings and jewel clips are far smaller/harder to work with compared to the staple pin, and will pose an immediate roadblock in your journey.
 
 # Thanks & How To Contribute
 If you like this work, please consider to:
