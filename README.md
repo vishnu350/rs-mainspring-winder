@@ -34,7 +34,7 @@ There are several parts to the RS mainspring winder:
 - $${\textbf{\large{\color{red}(4)}}}$$ **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
 - $${\textbf{\large{\color{red}(5)}}}$$ **The staple jig**. Use this part to cut the staple pins to form the arbor hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
 - $${\textbf{\large{\color{red}(6)}}}$$ **The arbor rod**. Get a dowel pin (or equivalent) with 1.5mm-3.0mm diameter and place it at the center of the winder base.
-- $${\textbf{\large{\color{red}(7)}}}$$ **The arbor hook**. Fashion this part out of a staple pin using the staple jig part (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base)) and insert into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
+- $${\textbf{\large{\color{red}(7)}}}$$ **The arbor hook**. Fashion this part out of a staple pin using the staple jig part (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base)) and insert into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)). Sharpen it if needed.
 
 **NOTE:** *The arbor hook and rod are too small to be 3D printed, hence metal parts are **required**.*
 
@@ -63,7 +63,7 @@ Steps to build your RS mainspring winder:
    - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 18mm in length.
    - For large size winder base: 2.5mm/3.0mm (M2.5/M3.0) diameter dowel pins, 18mm in length.
    - Using glue/epoxy for the dowel pins are optional, apply only a teeny tiny amount as needed.
-5. Optionally, use a fish hook sharpener to reduce the staple pin thickness so that it will better match the mainspring hole.
+5. Use a fish hook sharpener to reduce the staple pin thickness so that it will better match the hole in the mainspring you are currently working on.
    - Recomended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005006607858844.html).
    - For best results, use eye magnification while working on sharpening the staple hook.
    - Remember to clean off the metal filings after sharpening the staple hook.
