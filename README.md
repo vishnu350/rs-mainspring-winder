@@ -33,7 +33,7 @@ There are several parts to the RS mainspring winder:
 - $${\textbf{\large{\color{red}(3)}}}$$ **The winder base**. This part is responsible for winding the mainspring with the help of the arbor hook.
 - $${\textbf{\large{\color{red}(4)}}}$$ **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
 - $${\textbf{\large{\color{red}(5)}}}$$ **The staple jig**. Use this part to cut the staple pins to form the arbor hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
-- $${\textbf{\large{\color{red}(6)}}}$$ **The arbor rod**. Get a dowel pin (or equivalent) with 1.5mm-3.0mm diameter and place it at the center of the winder base.
+- $${\textbf{\large{\color{red}(6)}}}$$ **The arbor rod**. Get a 1.5mm-3.0mm diameter dowel pin and place it at the center of the winder base.
 - $${\textbf{\large{\color{red}(7)}}}$$ **The arbor hook**. Fashion this part out of a staple pin using the staple jig part (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base)) and insert into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)). If needed, use a fish hook sharpener to file it.
 
 **NOTE:** *The arbor hook and rod are too small to be 3D printed, hence metal parts are **required**.*
@@ -118,5 +118,5 @@ Credits and thanks to the following folk:
 - **AndyShap** for sharing his setter bowl and staple jig ideas, as well as refinements to the overall design. Also for providing the design files, wiki guides and video walkthroughs.
 - **Yxoc** for sharing detailed step by step instructions with pictures [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/?do=findComment&comment=233556) to be used by the wiki guides.
 - **Fred** and **aac58** for testing and contributing to the metal rod idea (now dowel pin) for the winder base during the early stages of the project.
-- **Fratink** for coming up with the first 3D winder design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. While the RS winder is now very different from this version, it helped inspire the creation of this project. The same free Creative Commons licensing scheme is re-used.
+- **Fratink** for coming up with the first semi-functional 3D winder design [here](https://www.thingiverse.com/thing:3540660) in Thingiverse. While the RS winder is very different from this version, it helped inspire the creation of this project.
 - All those who tested the RS winder, gave constructive feedback, posted pictures and helped others along their watchmaking journey. Thank you.
