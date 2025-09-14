@@ -7,7 +7,7 @@ Watch mainspring winding for hobbyists has always been a problem, as most of us 
 The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D print. It costs ~$10 to print a single set by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from **eBay seller AndyShap2 [here](https://www.ebay.com/itm/125428348675) (single set)** or **[here](https://www.ebay.com/itm/125578735361) (complete set).**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e482b696-3b54-45ca-b76b-73673ac55982" alt="drawing" width="38%"/>
+<img src="https://github.com/user-attachments/assets/2005ca8c-3879-42f4-be2a-23a659c61cc7" alt="drawing" width="38%"/>
 <img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="34.8%"/>
 </p>
 
@@ -28,13 +28,13 @@ The RS mainspring winder works very well when properly constructed. **List of fe
 
 # RS Winder Parts Description
 There are several parts to the RS mainspring winder:
-- **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no reason.
-- **The winder base**. This part is responsible for winding the mainspring with the help of the arbor hook.
-- **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
-- **The arbor hook**. Fashion this part out of a staple pin using the staple jig part (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base)) and insert into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
-- **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
-- **The arbor rod**. Get a dowel pin (or equivalent) with 1.5mm-3.0mm diameter and place it at the center of the winder base.
-- **The staple jig**. Use this part to easily cut the staple pins to form the arbor hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
+1. **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no reason.
+2. **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
+3. **The winder base**. This part is responsible for winding the mainspring with the help of the arbor hook.
+4. **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
+5. **The staple jig**. Use this part to easily cut the staple pins to form the arbor hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
+6. **The arbor rod**. Get a dowel pin (or equivalent) with 1.5mm-3.0mm diameter and place it at the center of the winder base.
+7. **The arbor hook**. Fashion this part out of a staple pin using the staple jig part (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base)) and insert into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
 
 **NOTE:** *The arbor hook and rod are too small to be 3D printed, hence metal parts are **required**.*
 
