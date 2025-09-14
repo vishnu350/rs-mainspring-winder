@@ -32,7 +32,7 @@ There are several parts to the RS mainspring winder:
 - $${\textbf{\large{\color{red}(2)}}}$$ **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
 - $${\textbf{\large{\color{red}(3)}}}$$ **The winder base**. This part is responsible for winding the mainspring with the help of the arbor hook.
 - $${\textbf{\large{\color{red}(4)}}}$$ **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
-- $${\textbf{\large{\color{red}(5)}}}$$ **The staple jig**. Use this part to easily cut the staple pins to form the arbor hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
+- $${\textbf{\large{\color{red}(5)}}}$$ **The staple jig**. Use this part to cut the staple pins to form the arbor hook, watch instructional video [here](https://youtu.be/na0XtIDea9I).
 - $${\textbf{\large{\color{red}(6)}}}$$ **The arbor rod**. Get a dowel pin (or equivalent) with 1.5mm-3.0mm diameter and place it at the center of the winder base.
 - $${\textbf{\large{\color{red}(7)}}}$$ **The arbor hook**. Fashion this part out of a staple pin using the staple jig part (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base)) and insert into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
 
