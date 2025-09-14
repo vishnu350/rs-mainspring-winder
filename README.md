@@ -28,7 +28,7 @@ The RS mainspring winder works very well when properly constructed. **List of fe
 
 # RS Winder Parts Description
 There are several parts to the RS mainspring winder:
-- $${\textbf{\large{\color{red}(1)}}}$$ **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top for no reason.
+- $${\textbf{\large{\color{red}(1)}}}$$ **The housing barrel**. This part is the barrel that houses the mainspring and plunger, with a rising sun knurling pattern on the top to prevent slips while winding.
 - $${\textbf{\large{\color{red}(2)}}}$$ **The plunger**. This part pushes the mainspring out of the housing barrel into the actual mainspring barrel.
 - $${\textbf{\large{\color{red}(3)}}}$$ **The winder base**. This part is responsible for winding the mainspring with the help of the arbor hook.
 - $${\textbf{\large{\color{red}(4)}}}$$ **The setter bowl**. This part helps the ejection of the mainspring by a very small amount so that the actual mainspring barrel can be easily fitted in by hand (see 2nd picture above).
