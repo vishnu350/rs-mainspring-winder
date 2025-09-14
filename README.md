@@ -6,11 +6,6 @@ Watch mainspring winding for hobbyists has always been a problem, as most of us 
 
 The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D print. It costs ~$10 to print a single set by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from **eBay seller AndyShap2 [here](https://www.ebay.com/itm/125428348675) (single set)** or **[here](https://www.ebay.com/itm/125578735361) (complete set).**
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/2005ca8c-3879-42f4-be2a-23a659c61cc7" alt="drawing" width="38%"/>
-<img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="34.8%"/>
-</p>
-
 The RS mainspring winder works very well when properly constructed. **List of features:**
 - Guaranteed to work on all released sizes, since the generation process is scripted.
 - Cheap and easy to print with no post-processing/finishing or support material required.
@@ -25,6 +20,11 @@ The RS mainspring winder works very well when properly constructed. **List of fe
 
 **Watch this YouTube video [here](https://youtu.be/EZvd_MKBOUQ) or [here](https://youtu.be/OAfQTk89P3s) (older) to better understand the RS winder parts and how it works.**<br/>
 **Discussion/Feedback: WRT forum thread [here](https://www.watchrepairtalk.com/topic/19340-3d-printed-rs-mainspring-winder-project-for-hobbyists/), or GitHub discussion section [here](https://github.com/vishnu350/rs-mainspring-winder/discussions).**<br/>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2005ca8c-3879-42f4-be2a-23a659c61cc7" alt="drawing" width="38%"/>
+<img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="34.8%"/>
+</p>
 
 # RS Winder Parts Description
 There are several parts to the RS mainspring winder:
