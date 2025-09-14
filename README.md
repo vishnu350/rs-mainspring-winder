@@ -7,8 +7,8 @@ Watch mainspring winding for hobbyists has always been a problem, as most of us 
 The RS mainspring winder was designed using FreeCAD+Python, and is easy to 3D print. It costs ~$10 to print a single set by most 3D print service providers. Alternatively, you may choose to just purchase a prebuilt kit from **eBay seller AndyShap2 [here](https://www.ebay.com/itm/125428348675) (single set)** or **[here](https://www.ebay.com/itm/125578735361) (complete set).**
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/7235dc2a-3123-4f9e-bd66-b80d4ab35ef4" alt="drawing" width=40.6% />
-<img src="https://github.com/vishnu350/rs-mainspring-winder/assets/5123344/503a3b6b-05e6-4174-b8a8-55bf989ea6f0" alt="drawing" width="40%"/>
+<img src="https://github.com/user-attachments/assets/e482b696-3b54-45ca-b76b-73673ac55982" alt="drawing" width="38%"/>
+<img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="34.8%"/>
 </p>
 
 The RS mainspring winder works very well when properly constructed. **List of features:**
