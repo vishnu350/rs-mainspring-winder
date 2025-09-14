@@ -94,8 +94,8 @@ On winding the mainspring:
 - If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem. If you are unable to determine this, then go back to practicing with spare mainsprings to get a feel.
 - **Learn how to use the setter bowl part properly!** It is specifically designed for pushing out the mainspring a teeny bit **BEFORE** actually placing the mainspring barrel, and the viewhole allows you to see it pushed. Once it is slightly jutting out of the winder, placing the mainspring barrel on it is easy and it can be safely plunged.
 <p align="center">
-<img src="https://github.com/vishnu350/rs-mainspring-winder/assets/5123344/1fa1f7ad-3fc7-4b25-b9fc-d7125184b0fa" width=25%>
-<img src="https://user-images.githubusercontent.com/5123344/179362734-67d5340e-5dd6-44f6-97d1-f3182b52eb8a.jpg" alt="drawing" width="18.5%"/>
+<img src="https://github.com/user-attachments/assets/dcaa3484-9426-4535-9b7f-20b19842a85c" width=25%>
+<img src="https://github.com/user-attachments/assets/234f7cfe-e982-4e7a-9265-6dfcd0232555" alt="drawing" width="18.5%"/>
 </p>
 
 On using the staple pin:
