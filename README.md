@@ -89,10 +89,10 @@ Please read every single sentence below carefully:
 
 On winding the mainspring:
 - You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired or old mainsprings will break regardless of how expensive your tools are.
-- If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something in your workflow is wrong and you should stop immediately to asses the problem. Go back to practicing with spare mainsprings to get a feel for this.
+- If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem.
 - Always **manually push the mainspring's tail end** instead of forcibly winding it into the winder. This is to avoid unnecessary stress onto the arbor and mainspring eye.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
-- Pay special attention to the **mainspring's tail end position** within the winder. Make sure to move it into the optimal position for plunging (see Step 6-7 in [user guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder)), or push it back in if it is jutting out of the vertical slits. Just blindly trying to wind it in will not help.
+- Pay special attention to the **mainspring's tail end position** within the winder. Make sure to move it into the optimal position for plunging (see Step 6-7 in the [user guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder)), or push it back in if it is jutting out of the vertical slits. Just blindly trying to wind it in will not help.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d76b0352-bda1-4d66-aa97-01ae992a29af" width=34%>
 <img src="https://github.com/user-attachments/assets/c74c6918-f132-45ce-acc4-230ad5c08426" width=28.6%> </p>
