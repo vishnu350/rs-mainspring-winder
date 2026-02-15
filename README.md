@@ -78,7 +78,7 @@ Please go to the wiki for instructions: [Customizing & Generating the RS winder]
 
 To generate the STL/3MF files for the various different sizes of all the RS winder parts, just clone this repo and execute the Python FreeCAD script using the following command:<br/>`freecadcmd generate_stl.py`
 
-# Warnings and Advice (READ CAREFULLY!)
+# Important Usage Notes (READ CAREFULLY!)
 Please read every single sentence below carefully:
 - As stated before, everything provided here comes with **ABSOLUTELY ZERO WARRANTY**.
 - While this winder works great for many users, it still requires you to be resourceful and **competent in basic watchmaking skills**.
@@ -89,9 +89,14 @@ Please read every single sentence below carefully:
 
 On winding the mainspring:
 - You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired or old mainsprings will break regardless of how expensive your tools are.
-- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
+- If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something in your workflow is wrong and you should stop immediately to asses the problem. Go back to practicing with spare mainsprings to get a feel for this.
 - Always **manually push the mainspring's tail end** instead of forcibly winding it into the winder. This is to avoid unnecessary stress onto the arbor and mainspring eye.
-- If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem. If you are unable to determine this, then go back to practicing with spare mainsprings to get a feel.
+- When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
+- Pay special attention to the **mainspring's tail end position** within the winder. Make sure to move it into the optimal position for plunging (see Step 6-7 in [user guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder)), or push it back in if it is jutting out of the vertical slits. Just blindly trying to wind it in will not help.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d76b0352-bda1-4d66-aa97-01ae992a29af" width=34%>
+<img src="https://github.com/user-attachments/assets/c74c6918-f132-45ce-acc4-230ad5c08426" width=28.6%> </p>
+
 - **Learn how to use the setter bowl part properly!** It is specifically designed for pushing out the mainspring a teeny bit **BEFORE** actually placing the mainspring barrel, and the viewhole allows you to see it pushed. Once it is slightly jutting out of the winder, placing the mainspring barrel on it is easy and it can be safely plunged.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/dcaa3484-9426-4535-9b7f-20b19842a85c" width=35%>
@@ -110,7 +115,9 @@ If you like this work, please consider to:
 - Notify me if the part links are no longer functional.
 - Buy me a cup of [coffee](https://github.com/sponsors/vishnu350?frequency=one-time)
 
-Help needed for future work:
+Future work:
+- Pin holes for mainspring tail end location checking.
+- Specialized thumb operated pusher for mainsprings tail end at vertical slits.
 - Support for magnet wires or steel braiding wires (staple hole all the way down) + updated jig. Possibly U shaped.
 - 3D printed washer part for mainspring arbor to help reduce stress on the innermost coil while winding on the large winder sets.
 
