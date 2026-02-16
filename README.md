@@ -89,15 +89,15 @@ Please read every single sentence below carefully:
 
 On winding the mainspring:
 - You must be competent enough to **assess the health of the mainspring** (see [here for guidance](https://github.com/vishnu350/rs-mainspring-winder/wiki/Selecting-the-correct-winder-size-for-your-mainspring)). Tired or old mainsprings will break regardless of how expensive your tools are.
-- If a mainspring is **harder to wind as compared to your successfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem.
+- If a mainspring **feels harder to wind as compared to your successfully wound practice mainsprings**, then something is wrong and you should stop immediately to asses the problem.
 - Always **manually push the mainspring's tail end** instead of forcibly winding it into the winder. This is to avoid unnecessary stress onto the arbor and mainspring eye.
 - When initially placing the housing barrel on the winder base with the latched mainspring, **do not forcefully ram the mainspring into position**. Watch the [video](https://youtu.be/OAfQTk89P3s?t=204) (min 3:24) for an simple way to do this.
-- Pay special attention to the **mainspring's tail end position** within the winder. Make sure to move it into the optimal position for plunging (see Step 6-7 in the [user guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder)), or push it back in if it is jutting out of the vertical slits. Just blindly trying to wind it in will not help.
+- Pay special attention to the **mainspring's tail end position** within the winder barrel. Make sure to move it to the optimal position for plunging (see Step 6-7 in the [user guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Using-the-RS-winder)), or push it back in if it is jutting out of the vertical slits. Just blindly trying to wind it in will not help, especially for automatic mainsprings with multiple or special tails ends.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/d76b0352-bda1-4d66-aa97-01ae992a29af" width=34%>
 <img src="https://github.com/user-attachments/assets/c74c6918-f132-45ce-acc4-230ad5c08426" width=28.6%> </p>
 
-- **Learn how to use the setter bowl part properly!** It is specifically designed for pushing out the mainspring a teeny bit **BEFORE** actually placing the mainspring barrel, and the viewhole allows you to see it pushed. Once it is slightly jutting out of the winder, placing the mainspring barrel on it is easy and it can be safely plunged.
+- **Learn how to use the setter bowl part properly.** It is specifically designed for pushing out the mainspring a teeny bit **BEFORE** actually placing the mainspring barrel, and the viewhole allows you to see it pushed. Once it is slightly jutting out of the winder, placing the mainspring barrel over it is easy but **you must first make sure the tail ends are properly fit in**. Only after that it is safe to plunge.
 <p align="center">
 <img src="https://github.com/user-attachments/assets/dcaa3484-9426-4535-9b7f-20b19842a85c" width=35%>
 <img src="https://github.com/user-attachments/assets/234f7cfe-e982-4e7a-9265-6dfcd0232555" alt="drawing" width="25.9%"/>
