@@ -59,7 +59,7 @@ Steps to build your RS mainspring winder:
    - Print your staple jig part STL file.
 3. Fashion a staple pin into an arbor hook with using the staple jig (see [instructions](https://github.com/vishnu350/rs-mainspring-winder/wiki/Creating-the-Arbor-Hook-for-the-Winder-Base) or watch [video](https://youtu.be/na0XtIDea9I)). Insert it into one of the holes on the winder base part (see [guide](https://github.com/vishnu350/rs-mainspring-winder/wiki/Attaching-the-Arbor-Hook-to-the-Mainspring)).
 4. Install the appropriate dowel pin for your winder base part:
-   - Recommended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005002177332247.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
+   - Recommended online purchase links: [AliExpress](https://www.aliexpress.com/item/1005007023343232.html), [Amazon](https://www.amazon.com/dp/B09W5PBHGR).
    - For normal size winder base: 1.5mm/2.0mm (M1.5/M2) diameter dowel pins, 18mm in length.
    - For large size winder base: 2.5mm/3.0mm (M2.5/M3.0) diameter dowel pins, 18mm in length.
    - Using glue/epoxy for the dowel pins are optional, apply only a teeny tiny amount as needed.
@@ -110,8 +110,8 @@ On using the staple pin:
 - If you still find the staple pin too **"fiddly"** even after sharpening it, then **learn how to steady your hands ([see article here](https://www.wikihow.com/Improve-Hand-Steadiness))**. Other movement parts such as hairsprings and jewel clips are far smaller/harder to work with compared to the staple pin, and will pose an immediate roadblock in your journey if you do not deal with it.
 
 # Thanks & How To Contribute
-If you like this work, please consider to:
-- Please ⭐️ this repository if this project helped you.
+Like this work?
+- Please ⭐️ this repository and follow the devs if this project helped you.
 - Notify me if the part links are no longer functional.
 - Buy me a cup of [coffee](https://github.com/sponsors/vishnu350?frequency=one-time)
 
