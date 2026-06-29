@@ -110,7 +110,7 @@ On using the staple pin:
 - If you still find the staple pin too **"fiddly"** even after sharpening it, then **learn how to steady your hands ([see article here](https://www.wikihow.com/Improve-Hand-Steadiness))**. Other movement parts such as hairsprings and jewel clips are far smaller/harder to work with compared to the staple pin, and will pose an immediate roadblock in your journey if you do not deal with it.
 
 # Thanks & How To Contribute
-Like this work?
+Like this project?
 - Please ⭐️ this repository and follow the devs if this project helped you.
 - Notify me if the part links are no longer functional.
 - Buy me a cup of [coffee](https://github.com/sponsors/vishnu350?frequency=one-time)
