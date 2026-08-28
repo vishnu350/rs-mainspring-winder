@@ -21,6 +21,7 @@ rs_version = "0.98"
 spring0_d = ["4.5", "5.0", "5.5", "6.0",  "6.5"]
 spring1_d = ["7.0", "7.5", "8.0",  "8.5",  "9.0",  "9.5",  "10.0", "10.5", "11.0", "11.5", "12.0", "12.5"]
 spring2_d = ["13.0",  "13.5",  "14.0",  "14.5", "15.0", "15.5", "16.0", "16.5", "17.0", "17.5", "18.0", "18.5"]
+spring3_d = ["20.0", "20.5", "21.0",  "21.5",  "22.0",  "22.5", "23.0", "23.5"]
 
 ## Open project file and spreadsheet
 FreeCAD.openDocument("rs-winder.FCStd")
@@ -32,6 +33,7 @@ os.mkdir("Release")
 os.mkdir("Release/small")
 os.mkdir("Release/normal")
 os.mkdir("Release/large")
+os.mkdir("Release/xlarge")
 os.mkdir("Release/small/winder-base")
 os.mkdir("Release/small/housing-barrel")
 os.mkdir("Release/small/bowl-setter")
@@ -44,6 +46,10 @@ os.mkdir("Release/large/winder-base")
 os.mkdir("Release/large/housing-barrel")
 os.mkdir("Release/large/bowl-setter")
 os.mkdir("Release/large/plunger")
+os.mkdir("Release/xlarge/winder-base")
+os.mkdir("Release/xlarge/housing-barrel")
+os.mkdir("Release/xlarge/bowl-setter")
+os.mkdir("Release/xlarge/plunger")
 os.mkdir("Release/staplejig")
 shutil.copyfile("misc/staplejig.stl", "Release/staplejig/staplejig.stl")
 shutil.copyfile("README.md", "Release/README-v"+rs_version+".md")
@@ -151,4 +157,41 @@ for n in spring2_d:
 
 ## Generate setter bowl
 export_mesh("Body003", "Release/large/bowl-setter/rs-setter-bowl-large")
+
+
+###############################
+## Generate XL winder        ##
+###############################
+## Reset project file and spreadsheet
+doc.restore()
+sheet = doc.Spreadsheet002
+
+## Setup XL winder params
+sheet.set("spr_h",  "5.0")   ## Set max spring height
+sheet.set("spr_ex", "0.75")  ## Set setter bowl spring extrude depth
+sheet.set("arb_d",  "3.125") ## Fits M3.0 dowel + clearance
+sheet.set("hook_d", "0.55")  ## Set hook hole diameter
+sheet.set("body_d", "38.0")  ## Set winder body diameter
+sheet.set("door_r", "0.25")  ## Set winder body door ratio
+sheet.set("stalk_r", "0.6")  ## Set plunger stalk ratio
+doc.recompute(None,True,True)
+
+## Generate winder base (M3.0)
+export_mesh("Body002", "Release/xlarge/winder-base/rs-winder-base-xlarge-3.0mm")
+
+## Generate winder base (M3.5)
+sheet.set("arb_d",  "3.625") ## Fits M3.5 dowel + clearance
+doc.recompute(None,True,True)
+export_mesh("Body002", "Release/xlarge/winder-base/rs-winder-base-xlarge-3.5mm")
+
+## Generate housing/plunger (based on spring diameter)
+for n in spring3_d:
+    sheet.set("spr_d", n)
+    sheet.set("version", "M"+n)
+    doc.recompute(None,True,True)
+    export_mesh("Body", "Release/xlarge/plunger/rs-winder-plunger-"+n+"mm")
+    export_mesh("Body001", "Release/xlarge/housing-barrel/rs-winder-housing-"+n+"mm")
+
+## Generate setter bowl
+export_mesh("Body003", "Release/xlarge/bowl-setter/rs-setter-bowl-xlarge")
 
